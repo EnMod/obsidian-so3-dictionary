@@ -1,0 +1,5 @@
+A shield system that utilizes powerful radiation to form layers of <span class="miscellaneous">[[Graviton|gravitons]]</span> in any desired location.
+This system uses the phenomenon whereby energy that is continuously fed into a certain closed space creates matter and gravitons to be formed, in order to create an antigravity field as well as a physical <span class="miscellaneous">[[Force Field|force field]]</span>.
+When this type of shield is used in a battle situation, this frequency of the radiation used to generate the shield is randomly changed with each deployment.  This prevents the enemy from matching the frequency of the shield and disabling it.
+It takes a tremendous amount of energy to deploy this kind of shield, so energy for this purpose must be stored somewhere in advance.  Of course, there are limits to the space available, so it is not wise to deploy a shield that is more powerful (and which requires more space) than necessary.
+In combat, the timing at which the shield must be activated is unpredictable, so a number of thin energy fields are deployed outside the shield proper, and the shield is only activated when the fields are breached.

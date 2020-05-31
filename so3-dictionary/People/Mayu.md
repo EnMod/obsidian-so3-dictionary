@@ -1,0 +1,3 @@
+A girl living in the <span class="political-bodies-places">[[Kirlsa Training Facility]]</span> who, along with her mother, takes care of the soldiers of the <span class="miscellaneous">[[Black Brigade]]</span>.
+<span class="people">[[Mayu]]</span> wears her heart on her sleeve, and tires of things easily, perhaps because her live involves day after day of nothing but repetitive chores around the training facility.
+Even though she often dreams of blowing up and venting her anger at her tiresome existence, she's basically a harmless girl.

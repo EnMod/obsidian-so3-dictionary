@@ -1,0 +1,3 @@
+An employee of <span class="miscellaneous">[[Sphere]]</span> and one of the original developers of the <span class="miscellaneous">[[Eternal Sphere]]</span>, Palmira was an incredibly skilled graphic artist.
+After the completion of the <span class="miscellaneous">[[Eternal Sphere]]</span> development project, <span class="people">[[Palmira Armes|Palmira]]</span> quit the company and married a man she had been dating since both were students.  She now leads a happy life as a homemaker.
+She does continue drawing pictures as a hobby, however, and her fingers are often covered with paint stains.

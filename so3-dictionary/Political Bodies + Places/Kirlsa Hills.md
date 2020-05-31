@@ -1,0 +1,3 @@
+A barren, hilly region between <span class="political-bodies-places">[[Kirlsa]]</span> and <span class="political-bodies-places">[[Arias]]</span> that contains rich mineral deposits.  Sovereignty over this region is a point of dispute between <span class="political-bodies-places">[[Kingdom of Airyglyph|Airyglyph]]</span> and <span class="political-bodies-places">[[Kingdom of Aquaria|Aquaria]]</span>, and there is still no precise boundary between the two kingdoms in this area.
+
+#PlaceName

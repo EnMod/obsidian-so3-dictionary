@@ -1,0 +1,2 @@
+An employee of <span class="miscellaneous">[[Sphere]]</span> and one of the original developers of the <span class="miscellaneous">[[Eternal Sphere]]</span>, Eleanor mainly programmed physics calculation routines used in armed conflict.
+During the development of the <span class="miscellaneous">[[Eternal Sphere]]</span>, this strong woman had a conflict with Daguon Zeber, the previous owner of <span class="miscellaneous">[[Sphere]]</span>.  After Daguon attempted to destroy her using various underhanded methods, Eleanor took him to court and won a lawsuit against him.

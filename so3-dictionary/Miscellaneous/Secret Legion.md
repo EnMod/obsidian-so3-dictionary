@@ -1,0 +1,4 @@
+A secret Aquarian unit led by the <span class="miscellaneous">[[Crimson Blade]]</span> <span class="people">[[Nel Zelpher]]</span>, primarily responsible for gathering information in the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span>.
+The Legion of the Void, which operates in the <span class="political-bodies-places">[[Kingdom of Greeton]]</span>, and the Spectral Legion, which operates in the <span class="political-bodies-places">[[Sanmite Republic]]</span>, both report into the <span class="miscellaneous">[[Secret Legion|Secret Legion's]]</span> command structure.
+
+#Organization

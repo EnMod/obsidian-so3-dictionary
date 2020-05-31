@@ -1,0 +1,5 @@
+A prohibited field of science in which a target organism is freely created through the research and direct manipulation of the genetic information of living organisms.
+This field, which intrudes upon the domain of the gods, has been declared heresy by certain types of religious people and philosophers, and researchers have even been persecuted in the past.  Still, this is one field that humanity cannot avoid on the path to the summit of evolution--or so some scientists believe.
+<span class="people">[[Fayt Leingod|Fayt's]]</span> father <span class="people">[[Robert Leingod|Dr. Leingod]]</span> is a famous <span class="miscellaneous">[[Genomorphist|genomorphist]]</span> who is well known throughout the galaxy, and who specializes in the study of <span class="miscellaneous">[[Genomorphy]]</span> from the standpoint of <span class="miscellaneous">[[Symbology|symbological]]</span> science.
+
+#ScientificTerm

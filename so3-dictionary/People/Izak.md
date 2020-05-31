@@ -1,0 +1,3 @@
+A <span class="races">[[Humanoid|humanoid]]</span> robot created by the technological superpower <span class="political-bodies-places">[[Kingdom of Greeton|Greeton]]</span> that supposedly destroyed the <span class="political-bodies-places">[[Ancient Kingdom of Aquor]]</span>.
+Whether there was a mistake in the robot's blueprint, or whether those who repaired it were at fault is uncertain, but this machine, which used to be a merciless killing machine, is now but a mere appliance. 
+This robot's official name is "Izak Type B-Mech".

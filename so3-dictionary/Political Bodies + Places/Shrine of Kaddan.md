@@ -1,0 +1,5 @@
+A shrine located near <span class="political-bodies-places">[[Aquios]]</span>, <span class="political-bodies-places">[[Kaddan]]</span> is counted as one of the holy sites of the <span class="miscellaneous">[[Church of Apris]]</span>, and the structure on its top floor is said to be one of the most ancient pieces of architecture still remaining on the <span class="political-bodies-places">[[Continent of Gaitt|continent of Gaitt]]</span>.
+Since it is forbidden for anyone other than the unbroken line of <span class="miscellaneous">[[Holy Mother|Holy Mothers]]</span> to enter the shrine, nobody knows who made the shrine, or their reasons for doing so.
+One thing that is certain, however, is that powerful <span class="miscellaneous">[[Runology|runology]]</span> was used at the time of construction, and this has protected the shrine from major wind and rain damage over the millennia.
+
+#Facility

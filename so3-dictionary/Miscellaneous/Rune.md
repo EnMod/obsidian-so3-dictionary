@@ -1,0 +1,5 @@
+A specially shaped design that is required for <span class="miscellaneous">[[Runology|runology]]</span> to work.
+It is possible to use <span class="miscellaneous">[[Runology|runology]]</span> as long as one of these designs is nearby, be that on the floor, on a wall, or elsewhere.
+However, the effective <span class="miscellaneous">[[Runology|runological]]</span> power decreases by a factor of four with the distance between the <span class="miscellaneous">[[Rune|rune]]</span> and the <span class="miscellaneous">[[Runologist|runologist]]</span>.  So other than a few extremely rare, highly trained individuals, almost all <span class="miscellaneous">[[Runologist|runologists]]</span> have some number of <span class="miscellaneous">[[Rune|runes]]</span> inscribed upon their bodies that they use when practicing their art.
+
+#ScientificTerm)

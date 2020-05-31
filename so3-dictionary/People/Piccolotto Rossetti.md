@@ -1,0 +1,3 @@
+The chief of the <span class="miscellaneous">[[Rossetti Troupe]]</span>, a circus group that roams the galaxy.
+While single-handedly managing the troupe, this hard-working man also puts on an animal trainer act.
+<span class="people">[[Piccolotto Rossetti|Piccolotto]]</span> has adopted and lovingly raised <span class="people">[[Peppita Rossetti|Peppita]]</span>, the daughter of his kid sister who died at a tragically young age.

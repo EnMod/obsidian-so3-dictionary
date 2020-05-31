@@ -1,0 +1,3 @@
+A <span class="political-bodies-places">[[Pangalactic Federation]]</span> <span class="miscellaneous">[[Space Station|space station]]</span> located in the <span class="political-bodies-places">[[Alpha Sector]]</span> that had the unfortunate fate of having to take on responsibility for defending the entire region after the sudden annihilation of <span class="political-bodies-places">[[Federation Station 8|Federation Station #8]]</span>, which was torn to shreds like so much paper.
+
+#Facility

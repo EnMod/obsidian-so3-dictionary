@@ -1,0 +1,4 @@
+A town in the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span> that lies closest to the neighboring <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span>.
+It has managed to withstand several fierce attacks by the <span class="political-bodies-places">[[Airyglyph]]</span> military in the past, thanks to its garrison, which is skillfully led by <span class="people">[[Clair Lasbard]]</span>, and its <span class="miscellaneous">[[Runology|runological]]</span> corps.  However, many of the town's <span class="miscellaneous">[[Runologist|runologist]]</span> defenders have been injured in the repeated battles, and it is rumored within the Kingdom of Aquaria that the fall of this town is imminent.
+
+#City

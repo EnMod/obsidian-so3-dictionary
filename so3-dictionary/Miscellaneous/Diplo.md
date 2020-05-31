@@ -1,0 +1,5 @@
+A large ship used by the anti-<span class="political-bodies-places">[[Pangalactic Federation|Federation]]</span> organization <span class="miscellaneous">[[Quark]]</span> as its flagship.  Although the <span class="miscellaneous">[[Diplo]]</span> looks like an ordinary <span class="miscellaneous">[[Diplomatic Flagship|diplomatic flagship]]</span> from the outside, it has been extensively modified with diverted military parts.
+Although it would be no match for a regular <span class="miscellaneous">[[Battle-Class Ship|battle-class ship]]</span> of the <span class="political-bodies-places">[[Pangalactic Federation]]</span>, it does boast firepower and defensive capabilities that are vastly superior to those of typical spaceships.
+Although the Diplo is officially registered to <span class="people">[[Cliff Fittir|Cliff]]</span>, <span class="people">[[Cliff Fittir|Cliff]]</span> has preferred to use the <span class="miscellaneous">[[Eagle]]</span> ever since the organization obtained it, and these days <span class="people">[[Maria Traydor|Maria]]</span> always commands the <span class="miscellaneous">[[Diplo]]</span>.
+
+#Ship

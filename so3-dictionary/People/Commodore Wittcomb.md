@@ -1,0 +1,3 @@
+Commander-in-Chief of the <span class="political-bodies-places">[[Pangalactic Federation|Federation]]</span> forces near <span class="races">[[Vendeeni]]</span> space.
+As a heroic veteran of countless victories against the <span class="political-bodies-places">[[Aldian Empire]]</span>, <span class="people">[[Commodore Wittcomb]]</span> is well-respected by officers and soldiers alike, and has the reputation for possessing the best analytical skills and judgment in the <span class="political-bodies-places">[[Pangalactic Federation|Federation]]</span>.
+<span class="people">[[Commodore Wittcomb|Commodore Wittcomb's]]</span> flagship is the <span class="miscellaneous">[[Battleship Aquaelie]]</span>.

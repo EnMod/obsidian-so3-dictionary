@@ -1,0 +1,3 @@
+A metallic element with the atomic number of 47, <span class="miscellaneous">[[Silver|silver]]</span> has an atomic mass of 107.8682, a <span class="miscellaneous">[[Melting Point|melting point]]</span> of 961.93 degrees centigrade, and a density of 10.50 g/c<sup>3</sup>. Of all the metallic elements that ordinarily exist in nature, silver is the best conductor of heat and electricity at room temperature, but unfortunately, it is much rarer than <span class="miscellaneous">[[Copper|copper]]</span>. 
+
+#Other

@@ -1,0 +1,7 @@
+<span class="races">[[Human|Humans]]<<span class="races">[[Human|Humans]]</span> living on <span class="political-bodies-places">[[Elicoor II]]</span>, primarily found in the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span> and the <span class="political-bodies-places">[[Airyglyph, Military Superpower|military superpower of Airyglyph]]</span>.
+Although <span class="races">[[Elicoorian|Elicoorians]]</span> look exactly like <span class="races">[[Earthling|Earthlings]]</span> at first glance, they are a completely different race.
+The most distinguishing characteristic of <span class="races">[[Elicoorian|Elicoorians]]</span> is a special ability of their eyes--they are able to visually recognize fluctuations in <span class="miscellaneous">[[Symbological Force|Symbological force]]</span>.
+The precision with which an individual can discern <span class="miscellaneous">[[Symbology|symbological]]</span> fluctuations depends on their genetic makeup.  <span class="miscellaneous">[[Holy Mother|Holy Mothers]]</span>, who have the greatest concentration of this power, are able to see the workings of <span class="miscellaneous">[[Symbol|symbols]]</span> in every living or non-living bodies or activity within their field of vision.
+This is why the <span class="races">[[Elicoorian|Elicoorians]]</span> possess <span class="miscellaneous">[[Symbology|symbological]]</span> technology that greatly exceeds their general level of civilization.
+
+#Race

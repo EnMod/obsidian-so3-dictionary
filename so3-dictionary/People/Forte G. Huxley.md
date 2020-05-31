@@ -1,0 +1,1 @@
+A <span class="races">[[Menodix]]</span> woman living in <span class="political-bodies-places">[[Surferio]]</span>.  One of many who fit the mold of a strong-willed woman who loves to cook.  <span class="people">[[Forte G. Huxley|Forte]]</span> may be one of the people with the fewest worries of anyone in this universe.

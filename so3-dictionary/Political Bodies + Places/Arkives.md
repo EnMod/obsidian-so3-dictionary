@@ -1,0 +1,4 @@
+A city in <span class="political-bodies-places">[[4D Space|4D space]<span class="political-bodies-places">[[4D Space|4D space]]</span>--one of the satellite cities where many of the inhabitants of the 4D universe live.  <span class="political-bodies-places">[[Spacetime Station]]</span> ties all of the major cities together.
+The inhabitants of the <span class="miscellaneous">[[Eternal Sphere]]</span> find the psychological makeup of the <span class="races">[[4D Being|4D beings]]</span> that live in this peculiar city to be curious creatures--they make sense in some ways, but not in others.
+
+#City

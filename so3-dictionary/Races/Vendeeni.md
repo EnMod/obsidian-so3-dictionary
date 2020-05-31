@@ -1,0 +1,4 @@
+A sentient race living on the planet <span class="political-bodies-places">[[Vendeen]]</span>.  First contact with the <span class="races">[[Vendeeni]]</span> occurred in the year 710 <span class="miscellaneous">[[SD]]</span>.  The <span class="races">[[Vendeeni]]</span> are descended from a shark-like cartilaginous fish, and their skin is very pale from the back down to the waist.
+Although the <span class="races">[[Vendeeni]]</span> are one of the few races with technology rivaling that of the <span class="political-bodies-places">[[Pangalactic Federation]]</span> and the <span class="political-bodies-places">[[Aldian Empire]]</span>, they rarely interact with outsiders and much of <span class="races">[[Vendeeni]]</span> technology is still shrouded in mystery.
+
+#Race

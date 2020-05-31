@@ -1,0 +1,3 @@
+A continent in the southern hemisphere of <span class="political-bodies-places">[[Elicoor II]]</span>, Gaitt is divided into three regions.  The mountainous southern region is ruled by the <span class="political-bodies-places">[[Airyglyph, Military Superpower|military superpower of Airyglyph]]</span>, the plains in the northeast are ruled by the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span>, and the hilly region to the northwest is ruled by the <span class="political-bodies-places">[[Sanmite Republic]]</span>.
+
+#PlaceName

@@ -1,0 +1,3 @@
+A longstanding member of the anti-<span class="political-bodies-places">[[Pangalactic Federation|Federation]]</span> group <span class="miscellaneous">[[Quark]]</span>, currently acting as a security guard on the <span class="miscellaneous">[[Diplo]]</span>.  He has the bad habit of boring people with old yams whenever he drinks.
+<span class="people">[[Lieber]]</span> tends to be the victim of this unfortunate character trait more often than anyone else.
+(<span class="people">[[Steeg]]</span> is usually smart enough to make his getaway before it's too late.)

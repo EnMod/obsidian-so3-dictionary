@@ -1,0 +1,3 @@
+A knight who served <span class="people">[[Duke Vox]]</span>, former captain of <span class="miscellaneous">[[Dragon Brigade]]</span>, since childhood.
+<span class="people">[[Schweimer]]</span> is a fine soldier who is trusted by his men, but as a result of idolizing <span class="people">[[Duke Vox]]</span>, he tends to be blind to what is going on around him.
+In order to respect the unfulfilled wishes of the fallen <span class="people">[[Duke Vox]]</span>, <span class="people">[[Schweimer]]</span> attempted to derail the peace process by assassinating <span class="people">[[Aquaria XXVII]]</span>, but thanks to <span class="people">[[Fayt Leingod|Fayt]]</span> and his companions, this assassination attempt ended in failure.

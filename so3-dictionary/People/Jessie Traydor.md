@@ -1,0 +1,4 @@
+A <span class="races">[[Human|human]]</span> woman born on <span class="political-bodies-places">[[Expel]]</span> who raised <span class="people">[[Maria Traydor|Maria]]</span> as her own daughter.
+<span class="people">[[Jessie Traydor|Jessie]]</span> worked as a lab worker in the field of <span class="miscellaneous">[[Symbological Genetics|symbological genetics]]</span> on <span class="political-bodies-places">[[Federation Station 17|Federation Station #17]]</span> along with her husband, who was a <span class="political-bodies-places">[[Pangalactic Federation|Federation]]</span> officer.
+Before getting married, while on <span class="political-bodies-places">[[Moonbase]]</span>, <span class="people">[[Jessie Traydor|Jessie]]</span> used to work on the staff of the Leingod Research Lab, where she met <span class="people">[[Fayt Leingod|Fayt]]</span>.
+(Of course <span class="people">[[Fayt Leingod|Fayt]]</span> has no memory of this time.)

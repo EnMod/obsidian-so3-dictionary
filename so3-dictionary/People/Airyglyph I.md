@@ -1,0 +1,2 @@
+He gambled his life by climbing the <span class="political-bodies-places">[[Dragon Road]]</span>, and became the first person to ever succeed in completing the <span class="miscellaneous">[[Accession of the Flame]]</span> ceremony.
+After this success, <span class="people">[[Airyglyph I]]</span> formed a covenant with the <span class="races">[[Air Dragon|air dragons]]</span>, drove out all of the monsters that lived in the area, and built the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span> 289 years ago.

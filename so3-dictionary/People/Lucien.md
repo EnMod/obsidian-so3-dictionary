@@ -1,0 +1,2 @@
+A <span class="races">[[Humanoid|humanoid]]</span> boy living in the town of <span class="political-bodies-places">[[Surferio]]</span>, along with his younger brother <span class="people">[[Lezard]]</span>, who bears little resemblance to him.
+<span class="people">[[Lucien]]</span> is going through a rebellious stage.

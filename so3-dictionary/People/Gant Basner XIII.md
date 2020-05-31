@@ -1,0 +1,2 @@
+A man whose old and honorable family has presided over the Bunny Race for generations.
+Unfortunately, people have been grumbling behind closed doors--no, even quite openly--about his skills as an MC, with complaints such as "what sloppy hosting," "let's hear some commentary," and "what a boring speaker!" This has tarnished the good name of the Basner family.  It's difficult to say whether or not <span class="people">[[Gant Basner XIII|Gant's]]</span> ancestors did any better of a job.  His horrible commentary skills just might run in the family.

@@ -1,0 +1,5 @@
+An upgraded, more powerful <span class="races">[[Executioners|Executioner]]</span> based on an improved <span class="races">[[Enforcer]]</span> design.
+<span class="races">[[Convictor|Convictors]]</span> are not very large, but since <span class="people">[[Luther Lansfeld|Luther]]</span> himself reprogrammed the <span class="races">[[Executioners]]</span>, they possess greatly improved capabilities in every respect.
+However, these <span class="races">[[Executioners]]</span> require a tremendous amount of data to exist, and releasing too many of them into the <span class="miscellaneous">[[Eternal Sphere]]</span> at the same time might cause serious problems in the structure of the universe itself.  This is why the use of these <span class="races">[[Executioners]]</span> has been restricted.
+
+#ComputationalType

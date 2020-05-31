@@ -1,0 +1,4 @@
+Of the large space ships used in the Milky Way, this type is designed with extra emphasis on maneuverability.  Although <span class="miscellaneous">[[Corsair|corsairs]]</span> cannot turn as sharply as <span class="miscellaneous">[[Battle-Class Ship|battle-class ships]]</span>, they are very good at accelerating and decelerating.
+They are much larger than <span class="miscellaneous">[[Battleship|battleships]]</span>, but since they can sport large <span class="miscellaneous">[[Creation Engine|creation engines]]</span>, they are slightly faster when traveling at their maximum <span class="miscellaneous">[[Warp Speed|warp speed]]</span>.
+
+#Ship

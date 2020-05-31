@@ -1,0 +1,8 @@
+An extremely rare race of individuals in which ordinary <span class="races">[[Human|human]]</span> cells and Beastfolk cells that have been transformed by a special virus coexist in the same body.  The <span class="races">[[Human|human]]</span> and Beastfolk cells in a <span class="races">[[Lycanthrope|<span class="races">[[Lycanthrope|Lycanthrope's]]</span>]]</span> body will expand or contract when the heart rate exceeds a certain threshold.
+As a result, the <span class="races">[[Lycanthrope|Lycanthrope's]]</span> external appearance will appear to undergo a transformation.
+Although there are some exceptions, a <span class="races">[[Lycanthrope|Lycanthrope's]]</span> body will become more solid and powerful when the Beastfolk cells are in the expanded state.
+There are many different <span class="races">[[Lycanthrope]]</span> bloodlines, including those related to wolves, bears, tigers, dogs, rats, boars, and other animals.  
+It should be noted that the legends about <span class="races">[[Lycanthrope|Lycanthropes]]</span> transforming after viewing the full moon, or about the <span class="races">[[Lycanthrope|Lycanthrope's]]</span> invulnerability to all weapons save those made of <span class="miscellaneous">[[Silver|silver]]</span>, are nothing more than superstitions.
+The legend of the full moon probably stems from an incident where a <span class="races">[[Lycanthrope]]</span> saw the moon and became excited for whatever reason, triggering the expansion of the <span class="races">[[Lycanthrope|Lycanthrope's]]</span> Beastfolk cells and accompanying physical transformation.
+
+#Race

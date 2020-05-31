@@ -1,0 +1,4 @@
+A special unit of the <span class="political-bodies-places">[[Greeton, Technological Superpower|technological superpower of Greeton]]</span> comprised of steel, <span class="races">[[Humanoid|humanoid]]</span>, motorized machines that are manipulated by a man known as the <span class="miscellaneous">[[Mechateer]]</span>.  These units were responsible for the downfall of the <span class="political-bodies-places">[[Ancient Kingdom of Aquor]]</span>.
+It is said that the bodies of these machines were impervious to damage by arrow or blade, and that their arms thundered as they shot fort gouts of flames.
+
+#Organization

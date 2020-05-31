@@ -1,0 +1,4 @@
+A unit created to express huge amounts of energy on the universal scale, with <span class="miscellaneous">[[Magnitude|magnitude 1]]</span> defined as the average total amount of energy emitted by a star approximately the same size as Sol in one microsecond (millionth of a second).
+In this notation, the amount of energy expressed goes up by a factor of one thousand with each <span class="miscellaneous">[[Magnitude|magnitude]]</span>, so the energy indicated by <span class="miscellaneous">[[Magnitude|magnitude 9]]</span> is one septillion (10<sup>24</sup>) times the amount of energy indicated by <span class="miscellaneous">[[Magnitude|magnitude 1]]</span>.
+
+#ScientificTerm

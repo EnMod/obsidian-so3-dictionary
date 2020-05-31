@@ -1,0 +1,2 @@
+A military serviceman working on <span class="political-bodies-places">[[Federation Station 17|Federation Station #17]]</span>, and the man who raised <span class="people">[[Maria Traydor|Maria]]</span> as his own daughter.
+He perished when the base's <span class="miscellaneous">[[Creation Engine|creation engine]]</span> malfunctioned during an attack by the forces of the <span class="political-bodies-places">[[Aldian Empire]]</span>.

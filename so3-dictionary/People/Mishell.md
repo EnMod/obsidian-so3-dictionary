@@ -1,0 +1,2 @@
+A cheeky young boy living in the city of <span class="political-bodies-places">[[Aquios]]</span>, <span class="people">[[Mishell]]</span> seems to think of himself as an adult.
+He loves to read books, and carries around tomes that are difficult enough to make an adult's head spin.  Perhaps his tendency to memorize entire chapters without really understanding the ideas expressed within is evidence that, gifted as he may be, <span class="people">[[Mishell]]</span> is after all, still a child.

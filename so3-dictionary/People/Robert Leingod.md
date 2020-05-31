@@ -1,0 +1,3 @@
+A <span class="races">[[Human|human]]</span> born on <span class="political-bodies-places">[[Earth]]</span>, and the father of <span class="people">[[Fayt Leingod|Fayt]]</span>.
+<span class="people">[[Robert Leingod|Dr. Leingod]]</span> is the <span class="political-bodies-places">[[Pangalactic Federation|Pangalactic Federation's]]</span> authority on <span class="miscellaneous">[[Symbology|symbology]]</span>, is an excellent <span class="miscellaneous">[[Genomorphist|genomorphist]]</span>, and has published many groundbreaking papers since he was a student.
+Although he is still young, he is already thought to possess the most brilliant mind of the century.

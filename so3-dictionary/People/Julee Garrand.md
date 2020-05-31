@@ -1,0 +1,3 @@
+A completely ordinary person who lives in the town of <span class="political-bodies-places">[[Arkives]]</span>, in <span class="political-bodies-places">[[4D Space|4D space]]</span>.
+As a mother overly obsessed with education, <span class="people">[[Julee Garrand|Julee]]</span> is so concerned with insuring that her son leads a happy life, she tries to force many things on him that he has no interest in whatsoever.
+<span class="people">[[Julee Garrand|Julee]]</span> is attempting to find meaning and somehow redeem the many disappointments of her own life by pouring all of her energy into her son.

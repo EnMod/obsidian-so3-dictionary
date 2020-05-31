@@ -1,0 +1,3 @@
+A young <span class="races">[[Menodix]]</span> boy who lives in the <span class="political-bodies-places">[[Lost City]]</span> of <span class="political-bodies-places">[[Surferio]]</span>.
+This major problem child travels around with two bad influences named <span class="people">[[Dribe]]</span> and <span class="people">[[Melt]]</span>, and plays life-threatening games with <span class="people">[[Lucien]]</span>, <span class="people">[[Lezard]]</span>, and <span class="people">[[Vellion]]</span>, all as part of a so-called Real Man Contest.
+It would be a good idea to keep an eye on this one, as he is always buying trouble with his rude words.

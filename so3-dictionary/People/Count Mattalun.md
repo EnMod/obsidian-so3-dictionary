@@ -1,0 +1,2 @@
+A mysterious ghost haunting the area underneath the <span class="political-bodies-places">[[Ancient Ruins of Mosel]]</span>.
+As a nobleman of the <span class="political-bodies-places">[[Ancient Kingdom of Aquor]]</span>, it is unknown why he haunts such an odd location (Spite? Obsession? Or did he simply lose a bet?).  He himself may not even remember the reason.

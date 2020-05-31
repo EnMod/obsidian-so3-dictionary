@@ -1,0 +1,13 @@
+The young militaristic king who rules the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span>.
+The <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span> was formerly poor, never possessing a powerful military in comparison to its three neighbors on the <span class="political-bodies-places">[[Continent of Gaitt|continent of Gaitt]]</span>.  But thanks to the uncompromising merit-based system of the current king, <span class="people">[[Airyglyph XIII]]</span>, the knight brigades, which used to be nothing more than clubs for the nobles to fraternize in, have been rebuilt into formidable military units.
+The reformation spearheaded by <span class="people">[[Airyglyph XIII]]</span> has led to the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span> possessing enough force to overwhelm the other three kingdoms, all in a brief period of time.
+For this naturally ambitious king, the invasion of the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span> is merely the first step in the path to the complete unification of the <span class="political-bodies-places">[[Continent of Gaitt|continent of Gaitt]]</span> through conquest, if you believe the rumors.
+
+# Part 2
+
+<span class="people">[[Airyglyph XIII]]</span> was originally born to a relatively minor family within <span class="political-bodies-places">[[Kingdom of Airyglyph|Airyglyph]]</span>, and was as far away from the throne as twelfth in line.
+However, as the result of many plots and multiple accidents, as well as a number of coincidences, he eventually attained the crown.
+The biggest mistake of those who lifted <span class="people">[[Airyglyph XIII]]</span> to the throne was that they underestimated his latent ambition and resourcefulness.
+The first royal decrees issued by <span class="people">[[Airyglyph XIII]]</span> after his ascension to the throne called for the banishment of those nobles who had promoted his rise, and the appointment of those who had been languishing in obscure posts.
+Of course, those nobles who realized what was happening fought back with all their might, but <span class="people">[[Airyglyph XIII]]</span> had already made meticulous preparations before the coronation, so it was already too late.
+When he was still young, and before he considered becoming king, <span class="people">[[Airyglyph XIII]]</span> studied abroad in <span class="political-bodies-places">[[Aquios]]</span>, where it is said he fell in love with a certain woman.  When the possibility of attaining the crown arose, however, they say this led to the breakup of the relationship.

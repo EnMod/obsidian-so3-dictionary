@@ -1,0 +1,6 @@
+This particle was theoretically derived from the need to explain the warping effect of an object's mass on space-time, it is perceived as a latent energy that has no effect outside the particle.
+The existence of this particle was postulated in order to explain the actual phenomenon whereby the mass of an object will warp space-time, before the nature and effect of <span class="miscellaneous">[[Alterable Space|alterable space (altspace)]]</span> were understood.
+After physicists came to understand <span class="miscellaneous">[[Alterable Space|altspace]]</span>, it became apparent that rather than mass creating the force of gravity, the existence of matter warps space-time in such a way that the apparent force of gravity results, and this effectively disproves the existence of "gravity" itself.
+Regardless, the <span class="miscellaneous">[[Graviton|graviton]]</span> still survives as one of the tools used to help explain the extremely confusing effects of <span class="miscellaneous">[[Alterable Space|altspace]]</span>.
+
+#ScientificTerm

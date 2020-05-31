@@ -1,0 +1,3 @@
+A station that suffered serious damage when attacked during the invasion by the <span class="political-bodies-places">[[Aldian Empire]]</span> at the time <span class="political-bodies-places">[[Federation Station 17|Federation Station #17]]</span> was destroyed.  This base was reclaimed from the hands of the Aldian Empire by <span class="people">[[Commodore Wittcomb]]</span>, hero of the Pangalactic military.
+
+#Facility

@@ -1,0 +1,5 @@
+Other than the fact that most of its atmosphere is composed of neon and other noble gases, the second planet in the <span class="political-bodies-places">[[Elicoor]]</span> system has an <span class="miscellaneous">[[Atmospheric Composition|atmospheric composition]]</span> that is similar to that of <span class="political-bodies-places">[[Earth]]</span>.
+<span class="political-bodies-places">[[Elicoor II]]</span> has an axial tilt of 32.6', is 0.8 AUs from its parent star, and has a surface gravity of 0.9 G.  The planet's technology level is estimated to be equivalent to 17th century <span class="political-bodies-places">[[Earth]]</span>.
+Although this planet is registered in the Galactic Atlas as an underdeveloped planet, since its people are constantly at war, no data is available for the total population of sentient life forms.
+
+#Planet 

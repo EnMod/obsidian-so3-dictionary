@@ -1,0 +1,6 @@
+A sentient race that lives on <span class="political-bodies-places">[[Klaus III]]</span> and <span class="political-bodies-places">[[Klaus IV|IV]]</span>.
+This race possesses excellent motor reflexes and hand-eye coordination, and it is said that the average <span class="races">[[Klausian]]</span> can easily surpass a top <span class="races">[[Earthling]]</span> in every aspect of physical capability.
+<span class="races">[[Klausian|Klausians]]</span> respect self-reliance, and regardless of the fact that more than a century has passed since first contact was made with this race, they still do not belong to the <span class="political-bodies-places">[[Pangalactic Federation]]</span>, or to any other multi-planetary government for that matter.
+<span class="races">[[Klausian|Klausians]]</span> are also known for having an external appearance that very closely resembles that of <span class="races">[[Earthling|Earthlings]]</span>.  If they didn't have three distinguishing green lines around their necks, they would resemble <span class="races">[[Earthling|Earthlings]]</span> with extremely good physiques.
+
+#Race

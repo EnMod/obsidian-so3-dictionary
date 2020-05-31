@@ -1,0 +1,5 @@
+A cavalry brigade and one of the three military branches of the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span>.  The <span class="miscellaneous">[[Storm Brigade]]</span> rides around the battlefield on lighting-quick animals called <span class="races">[[Lum|lums]]</span>, taking advantage of the animals' running speed by charging and disrupting enemy formations.
+The current captain of this brigade is <span class="people">[[Count Woltar]]</span>, Lord of <span class="political-bodies-places">[[Kirlsa]]</span>, who is also Commander of the Glyphian Defense Corps.
+In the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span>, the appellation "knight" carries with it strong connotations of personal valor, and soldiers assigned to any of the three brigades (<span class="miscellaneous">[[Storm Brigade]]</span>, <span class="miscellaneous">[[Black Brigade]]</span>, or <span class="races">[[Dragon Brigade]]</span>) are always given this title.
+
+#Organization

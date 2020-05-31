@@ -1,0 +1,4 @@
+A problem that can occur as a result of travel in time, either to the past or to the future.  The most famous <span class="miscellaneous">[[Time Paradox|time paradox]]</span> is the Grandfather Paradox, which asks "what would happen if you went back in time and killed your grandfather--would you still exist?"
+In 114 <span class="miscellaneous">[[SD]]</span>, Professor J.D. Wormer published his paper on the <span class="miscellaneous">[[Space-Time Discontinuity Effect|space-time discontinuity effect]]</span>, in which he postulated that even without a major paradox such as the one described above, if a single speck of dust, or even a single electron were to travel in time, it would have a major effect on the present.
+
+#ScientificTerm

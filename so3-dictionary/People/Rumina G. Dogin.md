@@ -1,0 +1,5 @@
+The daughter, heir, and right-hand of Chairman Goldburn, the legendary Casino King who went from rags-to-riches by taking the money he won in a gambling parlor and using it to start in immensely lucrative casino.
+<span class="people">[[Rumina G. Dogin|Rumina]]</span> is in the middle of setting up her own business on this unobserved world, completely ignoring <span class="political-bodies-places">[[Pangalactic Federation|Federation]]</span> laws in the process.
+Although she may look cute on the outside, underneath her clothes she is brimming with self-defense weaponry, and has even been referred to as a "walking armory" (Commentary provided by her friend "R").
+However, <span class="people">[[Rumina G. Dogin|Rumina]]</span> is a proponent of peaceful solution to conflict and seeks to avoid using her weaponry, if only because ammunition is expensive.
+Sometimes she breaks the law, and sometimes she ignores it altogether.

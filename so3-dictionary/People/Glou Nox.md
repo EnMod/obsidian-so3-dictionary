@@ -1,0 +1,3 @@
+The father of <span class="people">[[Albel Nox]]</span>, captain of the <span class="miscellaneous">[[Black Brigade]]</span>, and the previous captain of the <span class="miscellaneous">[[Dragon Brigade]]</span>.
+Wielding the <span class="miscellaneous">[[Sword of the Crimson Scourge]]</span>, a royal treasure, this man supported the reformation of <span class="people">[[Airyglyph XIII]]</span>.
+Tragically, <span class="people">[[Glou Nox]]</span> sacrificed his life to spare his son during <span class="people">[[Albel Nox|Albel's]]</span> failed <span class="miscellaneous">[[Accession of the Flame]]</span> ceremony, burning to death in the <span class="races">[[Dragon|dragons']]</span> fiery breath.

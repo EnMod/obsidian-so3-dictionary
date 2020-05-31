@@ -1,0 +1,3 @@
+A dancing girl of the nomadic race of <span class="races">[[Velbaysian|Velbaysians]]</span> who wander space, without any permanent home.
+Since her father is unknown, and her mother <span class="people">[[Elayne Rossetti|Elayne]]</span> is already dead, she stays with the <span class="miscellaneous">[[Rossetti Troupe]]</span>, which is led by her uncle <span class="people">[[Piccolotto Rossetti|Piccolotto]]</span>.
+She has the same genius for dancing that her mother possessed, and has already mastered many different dances at a young age, earning the admiration of the other members of the troupe.

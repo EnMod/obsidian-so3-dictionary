@@ -1,0 +1,3 @@
+The <span class="miscellaneous">[[Gravitic Warp Core|gravitic warp core]]</span> is the heart of a <span class="miscellaneous">[[Gravitic Warp Engine|gravitic warp engine]]</span>, and includes the <span class="miscellaneous">[[Creation Engine|creation engine]]</span> that acts as an energy source for the <span class="miscellaneous">[[Gravitic Warp|gravitic warp]]</span>, as well as the surrounding <span class="miscellaneous">[[Space-Time Displacement Shield|space-time displacement shield]]</span>.  Any accident that might occur while this core system is operating could spell instant disaster, so this system is always located in the safest possible location on a ship.
+
+#TechnologyName

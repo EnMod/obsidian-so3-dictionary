@@ -1,0 +1,6 @@
+One of the three military branches of the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span>, made up of flying knights mounted on <span class="races">[[Air Dragon|air dragons]]</span>.
+This small, elite mobile force mainly conducts surprise attacks and assaults on enemy encampments, as well as scouting missions that take advantage of their ability to fly.
+The three branches of the <span class="political-bodies-places">[[Airyglyph]]</span> military (<span class="miscellaneous">[[Storm Brigade]]</span>, <span class="miscellaneous">[[Black Brigade]]</span>, and <span class="races">[[Dragon Brigade]]</span>) are officially equal in rank.  But due to the nature of the missions assigned to the <span class="miscellaneous">[[Dragon Brigade]]</span>, its captain is authorized to issue royal commands.  So it would be no exaggeration to say that the <span class="miscellaneous">[[Dragon Brigade|Dragon Brigade's]]</span> captain is also the commander-in-chief of the <span class="political-bodies-places">[[Kingdom of Airyglyph|Airyglyph]]</span> military.
+<span class="people">[[Duke Vox]]</span>, who is also commander-in-chief of the Peacekeeping Force, is the current captain of this brigade.
+
+#Organization

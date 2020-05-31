@@ -1,0 +1,3 @@
+An enlisted member of the <span class="miscellaneous">[[Secret Legion]]</span>, a special unit working for the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span>, and led by <span class="people">[[Nel Zelpher]]</span>.
+<span class="people">[[Tynave]]</span> is a top-rate hand-to-hand fighter, even compared to other members of the <span class="miscellaneous">[[Secret Legion]]</span>, and can even double for the legion's leader <span class="people">[[Nel Zelpher|Nel]]</span> in a pinch.
+Although <span class="people">[[Tynave]]</span> has never been formally trained, she is one of those rare individuals who have succeeded in training themselves to be extremely proficient in the military arts.

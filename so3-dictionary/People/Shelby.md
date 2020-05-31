@@ -1,0 +1,3 @@
+Second-in-command of the <span class="miscellaneous">[[Black Brigade|Black Brigade's]]</span> heavy cavalry, pride of the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span>.  The men of the brigade like <span class="people">[[Shelby]]</span> better than the captain, <span class="people">[[Albel Nox|Albel]]</span>, because of his honest, hearty personality.
+<span class="people">[[Shelby|Shelby's]]</span> nickname is "<span class="people">[[Shelby the Heavy-Handed]]</span>."
+Unfortunately, <span class="people">[[Shelby]]</span> does have the bad habit of attempting to solve every problem through military force.

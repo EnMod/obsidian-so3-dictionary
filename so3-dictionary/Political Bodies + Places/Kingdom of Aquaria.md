@@ -1,0 +1,5 @@
+A theocratic kingdom located on the <span class="political-bodies-places">[[Continent of Gaitt|continent of Gaitt]]</span>, on the planet <span class="political-bodies-places">[[Elicoor II]]</span>, the <span class="political-bodies-places">[[Kingdom of Aquaria]]</span> refers to itself as a "Sacred Kingdom".
+The <span class="miscellaneous">[[Church of Apris]]</span>, which has many followers throughout the continent, was born in this kingdom.  Ever since the Torastic Religious War that occurred seven hundred years ago, an unbroken line of royalty dating back to the age of this kingdom's predecessor, the Sacred <span class="political-bodies-places">[[Kingdom of Aquor]]</span>, has ruled the land.
+Perhaps due to the recent incursions of the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span>, the current ruler of this country, <span class="people">[[Aquaria XXVII]]</span>, is allocating a tremendous amount of resources to research into <span class="miscellaneous">[[Runology|runology]]</span>.
+
+#Country

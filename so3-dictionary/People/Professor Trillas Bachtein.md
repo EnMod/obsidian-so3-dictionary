@@ -1,0 +1,2 @@
+The man who first succeeded in creating a <span class="miscellaneous">[[Subspace Warp|subspace warp]]</span> near <span class="political-bodies-places">[[Earth]]</span> in 2087 AD.  Practical application of this technology enabled humanity to take its first steps out of the <span class="political-bodies-places">[[Sol System]]</span>.
+The universe has never been the same since.

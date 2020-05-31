@@ -1,0 +1,4 @@
+A major city located in the center of the northern region of the <span class="political-bodies-places">[[Continent of Gaitt|continent of Gaitt]]</span>, <span class="political-bodies-places">[[Aquios]]</span> is not only the capital of the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span>, but also a holy site of the <span class="miscellaneous">[[Church of Apris]]</span>.
+Despite the dazzling beauty of the clear blue lake that surrounds this city, the <span class="miscellaneous">[[Runological Force|runological force]]</span> gathered there is greater than anywhere else on the <span class="political-bodies-places">[[Continent of Gaitt|continent of Gaitt]]</span>.
+
+#City

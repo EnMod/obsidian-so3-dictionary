@@ -1,0 +1,17 @@
+{
+  "name": "sot-split",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "node -r esm index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "fs-extra": "^9.0.0",
+    "pluralize": "^8.0.0",
+    "slugify": "^1.4.0"
+  }
+}

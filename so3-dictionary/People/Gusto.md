@@ -1,0 +1,3 @@
+A gifted blacksmith who used to live in the town of <span class="political-bodies-places">[[Kirlsa]]</span>, and who specializes in forging swords.
+After the output of <span class="political-bodies-places">[[Bequerel Mine]]</span> and other mines around <span class="political-bodies-places">[[Kirlsa]]</span> trailed off dramatically, <span class="people">[[Gusto]]</span> set off on an adventure to find better mines to excavate on his own.
+<span class="people">[[Gusto]]</span> is the only person who actually competes with <span class="races">[[Dragon|dragons]]</span> for the control of mineral resources in all of <span class="political-bodies-places">[[Elicoor II|Elicoor]]</span>.

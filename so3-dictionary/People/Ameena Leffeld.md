@@ -1,0 +1,4 @@
+A somewhat sickly girl who lives in <span class="political-bodies-places">[[Peterny]]</span>.
+<span class="people">[[Ameena Leffeld|Ameena]]</span> resembles the missing <span class="people">[[Sophia Esteed|Sophia]]</span> very closely, and if her coloring were a little healthier, she would most likely be almost indistinguishable from <span class="people">[[Fayt Leingod|Fayt's]]</span> childhood friend.
+Having lost all of her relatives in the long war, she now supports herself from day to day by selling the flowers that she used to grow as a hobby.
+<span class="people">[[Ameena Leffeld|Ameena]]</span> is one of the unfortunate victims of the war between <span class="political-bodies-places">[[Kingdom of Airyglyph|Airyglyph]]</span> and <span class="political-bodies-places">[[Kingdom of Aquaria|Aquaria]]</span>.

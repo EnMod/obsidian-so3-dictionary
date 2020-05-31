@@ -1,0 +1,3 @@
+The first queen of the <span class="political-bodies-places">[[Ancient Kingdom of Aquor]]</span>, now thought by many to be the precursor to the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span>.
+She was also the first <span class="miscellaneous">[[Holy Mother]]</span>.
+<span class="people">[[Aquaria I]]</span> is said to have received six <span class="miscellaneous">[[Rune|runes]]</span> and one magic sword from the <span class="miscellaneous">[[Emissary of Apris]]</span>, messenger of the goddess <span class="miscellaneous">[[Apris]]</span>.  Her eyes were also opened to the flows of <span class="miscellaneous">[[Runology|runology]]</span>.

@@ -1,0 +1,3 @@
+A cranky old woman with extremely prominent frown lines permanently etched upon her forehead.
+Although she led the <span class="miscellaneous">[[Craftsman's Guild]]</span> over a period of four years, her cantankerous personality led even her flesh and blood to abandon her, and nowadays she lives a solitary existence.
+In her heyday, <span class="people">[[Louise]]</span> had her own special program on the compact <span class="miscellaneous">[[Communicator|communicator]]</span>, in which she would show off her soothsaying talents.

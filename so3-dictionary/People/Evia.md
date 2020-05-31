@@ -1,0 +1,3 @@
+A long-haired man of refined tastes who used to work in <span class="political-bodies-places">[[Castle Aquaria]]</span> several years back.
+Worried about leaving his daughter <span class="people">[[Aqua]]</span> at home by herself all day, <span class="people">[[Evia]]</span> repeatedly skipped work or went home early.  The problem grew so severe that he was eventually fired, in spite of his high status within the castle.
+But rather than regretting this turn of events, <span class="people">[[Evia]]</span> was actually pleased to have more time to spend with his daughter.

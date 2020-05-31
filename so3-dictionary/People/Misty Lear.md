@@ -1,0 +1,2 @@
+A beautiful young woman with a mysteriously timeless presence.
+<span class="people">[[Misty Lear]]</span> is a superb alchemist, and since her appearance has not changed in decades, it is rumored that perhaps she has perfected an elixir or eternal youth.  The truth of the matter, however, is simply that the most talented alchemist of her clan always takes the name Misty.

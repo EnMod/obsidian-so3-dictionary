@@ -1,0 +1,2 @@
+A stiff-haired girl who follows <span class="people">[[Fayt Leingod|Fayt]]</span> and his companions around, saying, "No more, five years before! No more, seven years before!" as if it were some sort of key phrase, for no apparent reason.
+This odd phrase may make perfect sense to those who understand its context, but it means nothing at all to <span class="people">[[Fayt Leingod|Fayt]]</span>.  It's almost as if a desire for revenge is filling her with rage and makes her pick fights.

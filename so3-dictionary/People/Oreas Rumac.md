@@ -1,0 +1,1 @@
+A graphic artist working on the <span class="miscellaneous">[[Eternal Sphere]]</span> development team for <span class="miscellaneous">[[Sphere]]</span>, designs and plans dungeon layouts among other tasks.

@@ -1,0 +1,6 @@
+Research on this completely new type of energy system began after a discovery in the second half of the 4th century <span class="miscellaneous">[[SD]]</span>, and practical applications based on the system first appeared in the first half of the 8th century <span class="miscellaneous">[[SD]]</span>.
+This system, which was discovered in an ancient ruin on the planet <span class="political-bodies-places">[[Milokeenia]]</span>, describes a system wherein part of the energy that exists in imaginary number space is drawn into three-dimensional space.  
+Theoretically, this type of system could produce an essentially infinite amount of energy.
+Of course, since no type of material or electromagnetic shield can withstand the tremendous amounts of energy created by this system, the use of <span class="miscellaneous">[[Creation Energy|creation energy]]</span> is strictly limited to special areas of space surrounded by <span class="miscellaneous">[[Space-Time Displacement Shield|space-time displacement shields]]</span>.
+
+#ScientificTerm

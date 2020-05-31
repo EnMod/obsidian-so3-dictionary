@@ -1,0 +1,3 @@
+<span class="people">[[Sophia Esteed|Sophia's]]</span> mother, born on <span class="political-bodies-places">[[Earth|Earth's]]</span> satellite, <span class="political-bodies-places">[[Luna]]</span>.
+<span class="people">[[Kyoko Esteed|Kyoko]]</span> has been friends with <span class="people">[[Fayt Leingod|Fayt's]]</span> mother <span class="people">[[Ryoko Leingod|Ryoko]]</span> since the two were in school.
+Incidentally, <span class="people">[[Kyoko Esteed|Kyoko]]</span> herself is not an academician, but rather an excellent but otherwise quite ordinary surgeon.

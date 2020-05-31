@@ -1,0 +1,4 @@
+A <span class="political-bodies-places">[[Pangalactic Federation|Federation]]</span> <span class="miscellaneous">[[Transport Ship|transport ship]]</span> based at <span class="political-bodies-places">[[Remote Station 7|Remote Station #7]]</span> with the official name of <span class="miscellaneous">[[Helre|GFSS-12372 Helre]]</span>.
+Incidentally, in the military classification system of the <span class="political-bodies-places">[[Pangalactic Federation]]</span>, ships with serial numbers in the one thousand range are <span class="miscellaneous">[[Battle-Class Ship|battle-class ships]]</span>, those in the two to five thousand range are <span class="miscellaneous">[[Combat Explorer|combat explorers]]</span>, those in the six to nine thousand range are <span class="miscellaneous">[[Research Explorer|research explorers]]</span>, and those in the ten thousand range are <span class="miscellaneous">[[Transport Ship|transport ships]]</span>.
+
+#Ship

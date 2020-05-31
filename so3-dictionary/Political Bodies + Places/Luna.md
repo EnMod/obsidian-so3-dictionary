@@ -1,0 +1,3 @@
+The moon of the third planet of the <span class="political-bodies-places">[[Sol System]]</span>, <span class="political-bodies-places">[[Earth]]</span>.  In this day and age, when people speak of <span class="political-bodies-places">[[Luna]]</span>, they are often referring to <span class="political-bodies-places">[[Moonbase]]</span>, which was built in orbit around <span class="political-bodies-places">[[Luna]]</span>.
+
+#Moon

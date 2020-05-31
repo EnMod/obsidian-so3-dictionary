@@ -1,0 +1,3 @@
+A weapon of the <span class="political-bodies-places">[[Kingdom of Aquaria]]</span> in which <span class="miscellaneous">[[Runological Force|runological force]]</span> has been converted into <span class="miscellaneous">[[Channeled Force|channeled force]]</span> and stored, so that an untrained person can use the <span class="miscellaneous">[[Runology|runology]]</span> anywhere, at any time.
+
+#Weapon

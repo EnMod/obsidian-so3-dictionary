@@ -1,0 +1,5 @@
+A system of dates established in 2087 AD on <span class="political-bodies-places">[[Earth]]</span>, the third planet of the <span class="political-bodies-places">[[Sol System]]</span>, and the standard date system in use in the <span class="political-bodies-places">[[Pangalactic Federation]]</span>.
+This system commemorates the year <span class="people">[[Professor Trillas Bachtein]]</span> developed his faster-than-light <span class="miscellaneous">[[Subspace Warp|subspace warp]]</span> system, which enabled interstellar travel.
+On March 7th, four years after <span class="races">[[Earthling|Earthlings]]</span> first traveled faster than light through interstellar space, the Terran government of the time established this system of dates, with 2087 AD designated as the first year, in honor of this great achievement.
+
+#Other

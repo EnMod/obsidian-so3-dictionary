@@ -1,0 +1,3 @@
+The software engineering genius who developed the core simulation routines for universe construction based on multiple time axes, which allowed the <span class="miscellaneous">[[Eternal Sphere]]</span> to grow into the tremendous hit it is today.
+<span class="people">[[Luther Lansfeld|Luther]]</span> is also the owner of <span class="miscellaneous">[[Sphere]]</span>, the company that acts as the de facto ruling body of the <span class="political-bodies-places">[[Lost City]]</span>.
+He deserves most of the credit for turning <span class="miscellaneous">[[Sphere]]</span> into the juggernaut that it is today.

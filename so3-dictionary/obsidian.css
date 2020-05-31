@@ -1,0 +1,850 @@
+:root {
+  --clr-white: #fcfcfc;
+  --clr-selected: #e5e647;
+  --clr-races: #93f096;
+  --clr-people: #99f8f8;
+  --clr-places: #fb9d9c;
+  --clr-misc: #edbbf3;
+  --clr-option: #ffbfff;
+  --clr-separator: #6464dc;
+  --clr-border-inset: #ebebeb;
+  --clr-header-dark: rgba(20, 20, 128, 1);
+
+  --header-font: 'Handel Gothic', 'HighlandGothicLightFLF', 'Helvetica Neue',
+    sans-serif;
+  --body-font: 'Helvetica Neue', 'Nimbus Sans L', sans-serif;
+  --mono-font: 'JetBrains Mono', Consolas, 'Courier New', monospace;
+
+  --side-dock-font-size: 21px;
+
+  --small-outline: 1px black;
+  --small-shadow-outline: 1px 1px black, 1px -1px black, -1px 1px black,
+    -1px -1px black;
+  --large-outline: 3px 3px black, 3px -3px black, -3px 3px black,
+    -3px -3px black;
+}
+
+/* Fixes Chromium issue where local fonts don't render properly  */
+
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ============== */
+
+/* General Styles */
+
+/* ============== */
+
+/* Selection styling doesn't currently work in editor mode */
+
+::selection {
+  background-color: rgba(153, 248, 248, 0.2);
+  text-shadow: none;
+}
+
+::-webkit-scrollbar {
+  /* learned about the scrollbar taking up space and what the box is */
+  background: rgba(0, 0, 0, 0.25);
+  width: 25px;
+}
+
+::-webkit-scrollbar-thumb {
+  border: 2px solid;
+  border-image-slice: 1;
+  border-image-source: linear-gradient(
+    to bottom right,
+    #e3e3e3 0%,
+    #3e3f3f 55%,
+    #1f2020 100%
+  );
+
+  border-radius: 0;
+  background: linear-gradient(to bottom right, #405050 0%, #404646 100%);
+}
+
+.theme-dark {
+  --text-normal: var(--clr-white);
+  --text-accent: var(--clr-places);
+  text-shadow: 2px 2px 0px black;
+}
+
+html,
+body {
+  font-family: var(--body-font);
+  font-weight: 400;
+  letter-spacing: -0.00000005em;
+}
+
+body:not(.is-grabbing) .nav-file-title:hover,
+    body:not(.is-grabbing) .nav-folder-title:hover,
+    body:not(.is-grabbing) .mod-backlinks .side-dock-collapsible-section-header:hover {
+      background: none;
+      color: var(--clr-white);
+    }
+
+body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
+        background: none;
+        color: var(--clr-white);
+      }
+
+/* ====FILE===== */
+
+/* File explorer */
+
+/* ============= */
+
+.nav-header {
+  padding: 0;
+}
+
+.nav-header .nav-buttons-container {
+    flex-direction: column;
+    border-bottom: none;
+    padding: 20px;
+    margin-bottom: 0;
+  }
+
+.nav-header .nav-buttons-container .nav-action-button {
+      padding: 0 0 10px 0;
+      color: var(--clr-white);
+
+      --left-pad: 55px;
+    }
+
+.nav-header .nav-buttons-container .nav-action-button svg path {
+        stroke: var(--clr-white);
+      }
+
+.nav-header .nav-buttons-container .nav-action-button::after {
+        position: absolute;
+        left: 55px;
+        font-size: var(--side-dock-font-size);
+      }
+
+.nav-header .nav-buttons-container .nav-action-button:nth-child(1):hover::after,
+      .nav-header .nav-buttons-container .nav-action-button:nth-child(2):hover::after {
+        color: var(--clr-races);
+        border-bottom: 2px solid var(--clr-races);
+      }
+
+.nav-header .nav-buttons-container .nav-action-button:nth-child(3):hover::after {
+        color: var(--clr-selected);
+        border-bottom: 2px solid var(--clr-selected);
+      }
+
+.nav-header .nav-buttons-container .nav-action-button:nth-child(1)::after {
+        content: 'New note';
+        top: 113px;
+        left: var(--left-pad);
+      }
+
+.nav-header .nav-buttons-container .nav-action-button:nth-child(2)::after {
+        content: 'New folder';
+        top: 150px;
+        left: var(--left-pad);
+      }
+
+.nav-header .nav-buttons-container .nav-action-button:nth-child(3)::after {
+        content: 'Change sort order';
+        top: 186px;
+        left: var(--left-pad);
+      }
+
+.nav-header .nav-buttons-container .nav-action-button:last-child {
+        padding-bottom: 20px;
+        border-bottom: 4px solid var(--clr-separator);
+        box-shadow: 0px 2px black;
+      }
+
+/* Enables "selected" styling on nav folders */
+
+.nav-folder.mod-root .nav-folder:not(.is-collapsed) .nav-folder-children {
+        margin-bottom: 2em;
+      }
+
+.nav-folder.mod-root .nav-folder:not(.is-collapsed) .nav-folder-title-content {
+        padding-bottom: 2px;
+        border-bottom: 2px solid var(--clr-white);
+      }
+
+.nav-folder .nav-folder-title {
+    font-size: var(--side-dock-font-size);
+    color: var(--clr-white);
+    padding-bottom: 12px;
+  }
+
+.nav-folder .nav-folder-title:hover {
+      background: none;
+    }
+
+.nav-folder .nav-folder-title:hover .nav-folder-title-content {
+        padding-bottom: 2px;
+        border-bottom: 2px solid var(--clr-white);
+      }
+
+.nav-folder .nav-folder-title .nav-folder-title-content {
+      padding: 0;
+      padding-bottom: 2px;
+      border-bottom: 2px solid transparent;
+    }
+
+.nav-folder.is-active > .nav-folder-title {
+      background: none;
+      color: var(--clr-selected);
+    }
+
+.nav-folder.is-active > .nav-folder-title .nav-folder-title-content {
+        border-bottom: 2px solid var(--clr-selected);
+      }
+
+.nav-file .nav-file-title {
+    font-size: var(--side-dock-font-size);
+    color: var(--clr-white);
+    padding: 0px 20px 2px 20px;
+  }
+
+.nav-file .nav-file-title:hover {
+      background: none;
+    }
+
+.nav-file .nav-file-title:hover .nav-file-title-content {
+        border-bottom: 2px solid var(--clr-white);
+      }
+
+.nav-file .nav-file-title .nav-file-title-content {
+      padding: 0;
+      padding-bottom: 4px;
+      border-bottom: 2px solid transparent;
+    }
+
+.nav-file.is-active > .nav-file-title {
+      background: none;
+      color: var(--clr-selected);
+    }
+
+.nav-file.is-active > .nav-file-title .nav-file-title-content {
+        border-bottom: 2px solid var(--clr-selected);
+      }
+
+/* ============BORDERS================ */
+
+/* Borders and little square in corner */
+
+/* =================================== */
+
+.side-dock-plugin-panel .side-dock-title,
+.side-dock-plugin-panel .side-dock-plugin-panel-inner,
+.markdown-source-view,
+.markdown-preview-view,
+.view-header {
+  border: 6px var(--clr-border-inset);
+  border-style: groove ridge ridge groove;
+  border-radius: 36px 12px 12px 12px;
+}
+
+.side-dock-plugin-panel .side-dock-title::before, .side-dock-plugin-panel .side-dock-plugin-panel-inner::before, .markdown-source-view::before, .markdown-preview-view::before, .view-header::before {
+    position: absolute;
+    content: '';
+    border: 4px solid #e2e2e2;
+    border-style: groove ridge ridge groove;
+    border-radius: 1px;
+    background: #d8d8d8;
+    width: 12px;
+    height: 12px;
+    top: 0;
+    left: 0;
+  }
+
+.view-header::before {
+    top: -6px;
+    left: -6px;
+  }
+
+.side-dock-plugin-panel .side-dock-plugin-panel-inner::before {
+    top: 90px;
+  }
+
+/* ========BG========= */
+
+/* Background gradient */
+
+/* =================== */
+
+.side-dock-plugin-panel .side-dock-title,
+.side-dock-plugin-panel .side-dock-plugin-panel-inner,
+.markdown-source-view,
+.markdown-preview-view {
+  background: linear-gradient(
+    to bottom right,
+    rgba(0, 160, 160, 1) 0%,
+    rgba(0, 80, 80, 1) 50%,
+    rgba(0, 16, 16, 1) 100%
+  );
+}
+
+/* ===HEAD==== */
+
+/* Note header */
+
+/* =========== */
+
+.view-header {
+  align-items: center;
+  background: linear-gradient(
+    to bottom right,
+    var(--clr-header-dark) 0%,
+    rgba(55, 55, 128, 1) 60%,
+    rgba(90, 90, 128, 1) 100%
+  );
+  height: 90px;
+  position: absolute;
+  width: 100%;
+  z-index: 5;
+}
+
+.view-header .view-header-title-container {
+    padding-left: 20px;
+    height: unset;
+  }
+
+.view-header .view-header-title-container .view-header-title {
+      font-size: 41px;
+      font-weight: 400;
+      line-height: 2;
+      text-shadow: 3px 3px black, 3px -3px black, -3px 3px black,
+        -3px -3px black;
+    }
+
+.workspace-leaf.mod-active .view-header {
+    border-bottom: 8px ridge var(--clr-border-inset);
+  }
+
+.workspace-leaf.mod-active .view-header-title-container:after {
+    display: none;
+  }
+
+.view-content {
+  height: 100%;
+}
+
+/* ========EDITOR======== */
+
+/* Editor / Preview modes */
+
+/* ====================== */
+
+.markdown-source-view,
+.markdown-preview-view {
+  max-width: 100%;
+  padding: 16px;
+  padding-top: 98px;
+  border-radius: 36px 12px 12px 12px;
+}
+
+.markdown-source-view {
+  --text-faint: var(--clr-separator);
+  font-family: var(--mono-font);
+  font-size: 21px;
+}
+
+.markdown-source-view .cm-s-obsidian div.HyperMD-codeblock-begin-bg,
+    .markdown-source-view .cm-s-obsidian div.HyperMD-codeblock-end-bg {
+      background-color: var(--clr-header-dark);
+    }
+
+.markdown-source-view .cm-s-obsidian pre.HyperMD-codeblock {
+      color: var(--clr-races);
+      border-radius: 5px;
+      background-color: var(--clr-header-dark);
+      padding: 4px 0px;
+    }
+
+.markdown-source-view .cm-s-obsidian span.cm-hashtag {
+        text-decoration: none;
+        color: var(--clr-people);
+        border-bottom: 2px solid var(--clr-people);
+      }
+
+.markdown-source-view .cm-s-obsidian span.cm-hashtag.cm-hashtag-end {
+          padding-bottom: 1px;
+        }
+
+.markdown-source-view .cm-s-obsidian span.cm-formatting-list {
+        color: var(--white);
+      }
+
+.markdown-source-view .cm-s-obsidian span.cm-url {
+        color: var(--clr-places);
+      }
+
+.markdown-source-view .cm-s-obsidian span.cm-formatting-code {
+        color: var(--clr-races);
+        background-color: var(--clr-header-dark);
+        padding: 4px 0px;
+      }
+
+.markdown-source-view .cm-s-obsidian span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code) {
+        color: var(--clr-races);
+        background-color: var(--clr-header-dark);
+        padding: 4px 0px;
+      }
+
+.markdown-source-view .cm-s-obsidian span.cm-footref {
+        text-indent: 0;
+      }
+
+.markdown-preview-view {
+  font-size: 32px;
+  line-height: 1.2;
+  text-shadow: 3px 2.5px 0px black;
+}
+
+.markdown-preview-view h1,
+  .markdown-preview-view h2,
+  .markdown-preview-view h3,
+  .markdown-preview-view h4,
+  .markdown-preview-view h5,
+  .markdown-preview-view h6 {
+    font-family: var(--header-font);
+    line-height: 1.2;
+    color: var(--clr-option);
+    margin-top: 1.5em;
+    font-size: 120%;
+    font-weight: 400;
+  }
+
+.markdown-preview-view code {
+    color: var(--clr-races);
+    background-color: var(--clr-header-dark);
+    font-size: 70%;
+    padding: 4px 8px;
+  }
+
+.markdown-preview-view > .markdown-preview-section {
+    max-width: 830px;
+  }
+
+.markdown-preview-view > .markdown-preview-section:first-child {
+      /* For Zettelkasten users: Hides the ZK ID from preview if you use the first line for ID */
+      /* Uncomment if you prefer keeping ZK ID at the top of your files
+    instead of in the filename, but don't want it to show in preview */
+    }
+
+/* display: none; */
+
+.markdown-preview-view > .markdown-preview-section:first-child p {
+        margin-top: -10px;
+        margin-bottom: 0.5em;
+      }
+
+.markdown-preview-view .tag {
+    color: var(--clr-people);
+    font-size: 24px;
+    text-decoration: none;
+  }
+
+.markdown-preview-view .tag:hover {
+      padding-bottom: 2px;
+      border-bottom: 2px solid var(--clr-people);
+    }
+
+.markdown-preview-view .internal-link,
+  .markdown-preview-view .external-link {
+    text-decoration: none;
+    color: var(--clr-places);
+  }
+
+.markdown-preview-view hr.footnotes-sep {
+    height: 4px;
+    background-color: var(--clr-separator);
+    box-shadow: 0px 2px black;
+  }
+
+.markdown-preview-view ol.footnotes-list {
+      font-size: var(--side-dock-font-size);
+      text-shadow: 1.5px 1.5px 0px black;
+    }
+
+.markdown-preview-view ol li {
+      margin-bottom: 0.5em;
+    }
+
+/* =SIDEDOCK */
+
+/* Side dock */
+
+/* ========= */
+
+.side-dock {
+  text-shadow: 1.5px 1.5px 0px black;
+}
+
+.side-dock .side-dock-title {
+    font-size: 26px;
+    padding: 27px 0 18px 0;
+    height: 90px;
+    text-align: center;
+  }
+
+.side-dock.mod-left .side-dock-title {
+    padding-bottom: 36px;
+  }
+
+.side-dock.mod-right .side-dock-plugin-panel {
+    border-left: none;
+  }
+
+/* Darkens each tab by default */
+
+.side-dock .side-dock-ribbon-tab-inner svg, .side-dock .side-dock-ribbon-action svg {
+      filter: brightness(55%);
+    }
+
+.side-dock .side-dock-ribbon-tab-inner:hover svg, .side-dock .side-dock-ribbon-action:hover svg {
+        filter: brightness(89%);
+      }
+
+/* ============================= */
+
+.side-dock .side-dock-ribbon-tab.is-active .side-dock-ribbon-tab-inner svg {
+      filter: none;
+    }
+
+/* Icon colors */
+
+.side-dock [aria-label='Open Markdown importer'] svg path, .side-dock [aria-label='Open random note'] svg path, .side-dock [aria-label='Create new Zettelkasten note'] svg path, .side-dock [aria-label="Open today's note"] svg path {
+      stroke: var(--clr-races);
+    }
+
+/* Ribbon tab icon color changes */
+
+.side-dock [aria-label='File explorer'] svg path, .side-dock [aria-label='Search in files'] svg path, .side-dock [aria-label='Starred'] svg path {
+      stroke: var(--clr-selected);
+    }
+
+/* ===========RIBBON============ */
+
+.side-dock [aria-label='Open quick switcher'] svg path, .side-dock [aria-label='Backlinks'] svg path, .side-dock [aria-label='Open graph view'] svg path {
+      stroke: var(--clr-places);
+    }
+
+.side-dock [aria-label='Tags'] svg path {
+      stroke: var(--clr-people);
+    }
+
+.side-dock [aria-label='Open another vault'] svg path, .side-dock [aria-label='Settings'] svg path {
+      stroke: var(--clr-option);
+    }
+
+/* ==TAGS=== */
+
+/* Tags pane */
+
+/* ========= */
+
+.tag-pane-tags {
+  padding-top: 15px;
+  padding-left: 5px;
+}
+
+.tag-pane-tags .tag-pane-tag {
+    font-size: var(--side-dock-font-size);
+    color: var(--clr-people);
+  }
+
+.tag-pane-tags .tag-pane-tag:hover {
+      background: none;
+    }
+
+.tag-pane-tags .tag-pane-tag:hover .tag-pane-tag-text {
+        border-bottom: 2px solid var(--clr-people);
+      }
+
+.tag-pane-tags .tag-pane-tag .tag-pane-tag-text {
+      padding: 0;
+      padding-bottom: 4px;
+      border-bottom: 2px solid transparent;
+    }
+
+.tag-pane-tags .tag-pane-tag .tag-pane-tag-count {
+      font-size: 18px;
+      background-color: transparent;
+      text-shadow: var(--small-shadow-outline);
+    }
+
+/* =========SEARCH======== */
+
+/* Search in Files results */
+
+/* ======================= */
+
+.mod-global-search .search-result-container {
+    padding: 27px;
+  }
+
+.mod-global-search .search-empty-state {
+    color: var(--white);
+  }
+
+.mod-global-search .search-result-file-title {
+    font-size: var(--side-dock-font-size);
+  }
+
+.mod-global-search .search-result-file-title:hover {
+      background: none;
+    }
+
+.mod-global-search .search-result-file-matches {
+    color: var(--clr-white);
+  }
+
+.mod-global-search .search-result-file-matches .search-result-file-match:hover {
+        background: none;
+      }
+
+.mod-global-search .search-result-file-matches .search-result-file-match .search-result-file-matched-text {
+        background: rgba(229, 230, 71, 0.4);
+      }
+
+/* BACKLINKS */
+
+/* Backlinks */
+
+/* ========= */
+
+.mod-backlinks .side-dock-plugin-panel-inner {
+    padding: 27px;
+  }
+
+.mod-backlinks .search-empty-state {
+    color: var(--white);
+  }
+
+.mod-backlinks .search-result-file-title {
+    font-size: var(--side-dock-font-size);
+  }
+
+.mod-backlinks .search-result-file-title:hover {
+      background: none;
+    }
+
+.mod-backlinks .search-result-file-matches {
+    color: var(--clr-white);
+  }
+
+.mod-backlinks .search-result-file-matches .search-result-file-match:hover {
+        background: none;
+      }
+
+.mod-backlinks .search-result-file-matches .search-result-file-match .search-result-file-matched-text {
+        background: rgba(229, 230, 71, 0.4);
+      }
+
+.mod-backlinks .side-dock-collapsible-section-header {
+    padding: 0;
+    padding-bottom: 2px;
+    border-bottom: 2px solid transparent;
+    margin-left: 22px;
+    color: var(--clr-white);
+  }
+
+.mod-backlinks .side-dock-collapsible-section-header:hover {
+      padding-bottom: 2px;
+      border-bottom: 2px solid var(--clr-white);
+    }
+
+.mod-backlinks .side-dock-collapsible-section-header .side-dock-collapsible-section-header-indicator {
+      display: none;
+    }
+
+.mod-backlinks .side-dock-collapsible-section-header:not(.is-collapsed) {
+      padding-bottom: 2px;
+      border-bottom: 2px solid var(--clr-white);
+    }
+
+/* ===============SO3================ */
+
+/* SO3-Specific Presentational styles */
+
+/* ================================== */
+
+/* These styles make the look emulate Star Ocean 3's Dictionary feature more accurately. */
+
+.nav-folder.mod-root > :first-child,
+.nav-folder-collapse-indicator {
+  display: none;
+}
+
+.nav-folder-title {
+  padding: 0px 15px 12px 15px;
+}
+
+/* Book icon like in the game menus */
+
+.nav-folder-title-content::before {
+  content: '📙';
+}
+
+/* Opens the "book" above when opening the folder */
+
+.nav-folder.mod-root
+  .nav-folder:not(.is-collapsed)
+  .nav-folder-title-content::before {
+  content: '📖';
+}
+
+.nav-files-container {
+  padding: 20px;
+}
+
+.nav-header .nav-buttons-container {
+  padding: 20px;
+  padding-bottom: 0;
+}
+
+.mod-starred .nav-header .nav-buttons-container .nav-action-button:nth-child(1)::after {
+    content: 'Star current entry';
+  }
+
+/* ==ACTIONS== */
+
+/* Actions bar */
+
+/* =========== */
+
+.view-actions .view-action svg path {
+      stroke: var(--clr-white);
+    }
+
+.svg-container {
+  padding-top: 90px;
+}
+
+/* ============== */
+
+/* Selection hand */
+
+/* ============== */
+
+.nav-folder-title:hover::before, .nav-file-title:hover::before, .tag-pane-tag-text:hover::before, .search-result-file-title:hover::before, .search-result-file-match:hover::before, .side-dock-collapsible-section-header:hover::before {
+    content: '👍';
+    position: absolute;
+    left: -12px;
+    top: 15px;
+    transform: scale(-1.75, 1.75) rotate(-45deg);
+    filter: grayscale() contrast(150%);
+    text-shadow: -2px 0px 0px rgba(0, 0, 0, 0.25);
+  }
+
+.search-result-file-title,
+.search-result-file-match {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.search-result-file-title:hover::before, .search-result-file-match:hover::before {
+    left: -14px;
+  }
+
+.side-dock-collapsible-section-header:hover::before {
+    left: -34px;
+  }
+
+/* Localizes the hand on hover, to the titles */
+
+.search-result-file-title {
+  position: relative;
+}
+
+.nav-files-container,
+.item-list,
+.mod-backlinks .side-dock-plugin-panel-inner,
+.mod-global-search .search-result-container,
+.tag-pane-tags {
+  padding: 27px;
+}
+
+.nav-header .nav-buttons-container {
+  padding: 42px;
+  padding-bottom: 0;
+}
+
+.nav-header .nav-buttons-container .nav-action-button {
+    --left-pad: 75px;
+  }
+
+.nav-header .nav-buttons-container .nav-action-button:nth-child(1)::after {
+      content: 'New entry';
+      top: 135px;
+      left: var(--left-pad);
+    }
+
+.nav-header .nav-buttons-container .nav-action-button:nth-child(2)::after {
+      content: 'New category';
+      top: 172px;
+      left: var(--left-pad);
+    }
+
+.nav-header .nav-buttons-container .nav-action-button:nth-child(3)::after {
+      top: 206px;
+      left: var(--left-pad);
+    }
+
+/* Moves the actions bar to somewhere still accessible */
+
+.view-actions {
+  position: absolute;
+  bottom: calc(-100vh + 118px);
+  right: 20px;
+  z-index: 15;
+}
+
+/* Moves the first tag into the top-right of the entry */
+
+.markdown-preview-view > .markdown-preview-section:last-child p > .tag {
+    color: var(--clr-white);
+    font-size: 41px;
+    margin-bottom: 0;
+    pointer-events: none;
+    position: absolute;
+    right: 10px;
+    text-decoration: none;
+    text-shadow: var(--large-outline);
+    top: 14px;
+    z-index: 11;
+  }
+
+.markdown-preview-view > .markdown-preview-section:last-child p > .tag::before {
+      content: '(';
+    }
+
+.markdown-preview-view > .markdown-preview-section:last-child p > .tag::after {
+      content: ')';
+    }
+
+/* Spaces out list items a bit */
+
+.markdown-preview-view ol li {
+    padding-bottom: 0.25em;
+  }
+
+.tooltip {
+  display: none;
+}
+
+.miscellaneous .internal-link {
+  color: var(--clr-misc);
+}
+
+.people .internal-link {
+  color: var(--clr-people);
+}
+
+.political-bodies-places .internal-link {
+  color: var(--clr-places);
+}
+
+.races .internal-link {
+  color: var(--clr-races);
+}

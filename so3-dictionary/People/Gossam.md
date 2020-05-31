@@ -1,0 +1,2 @@
+While <span class="people">[[Gossam]]</span> is actually a rather skilled doctor, he sends all of his patients home with medicine, no matter how seriously ill they may be.
+The only reason no one has yet filed a complaint against <span class="people">[[Gossam]]</span> is that the medicine he prescribes actually does a miraculous job of curing his patients.

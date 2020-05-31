@@ -1,0 +1,3 @@
+Respected elder of the <span class="miscellaneous">[[Craftsman's Guild]]</span> located in <span class="political-bodies-places">[[Peterny]]</span>.
+At first glance, he looks like some kind of strange <span class="races">[[Humanoid|humanoid]]</span>, but the <span class="people">[[Guild Master]]</span> is a bona fide <span class="races">[[Human|human]]</span>.
+No one knows the shocking secret of his real name.  Thing is, nobody has ever bothered to ask.

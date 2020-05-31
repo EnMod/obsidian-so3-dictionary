@@ -1,0 +1,3 @@
+A technology discovered in 346 <span class="miscellaneous">[[SD]]</span> on the planet <span class="political-bodies-places">[[Roak]]</span> whereby certain phenomena can be induced through the combination of the three aspects of invocation, marking, and mental power near an inscription of a special type of design called a <span class="miscellaneous">[[Symbol|symbol]]</span>.  This technology was known as heraldry in the past.
+
+#ScientificTerm

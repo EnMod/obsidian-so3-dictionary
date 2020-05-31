@@ -1,0 +1,4 @@
+A military nation ruling the mountainous southern regions of the <span class="political-bodies-places">[[Continent of Gaitt|continent of Gaitt]]</span>, which is located in the southern hemisphere of the planet of <span class="political-bodies-places">[[Elicoor II]]</span>.
+Seeking to establish a unified rule over the entire continent, the prowess of its three armies strikes fear into the hearts of those living in neighboring lands.  These three armies include a cavalry brigade (the <span class="miscellaneous">[[Storm Brigade]]</span>), heavy cavalry (the <span class="races">[[Black Brigade]]</span>), and an air assault brigade (the <span class="races">[[Dragon Brigade]]</span>).
+
+#Country

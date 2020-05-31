@@ -1,0 +1,6 @@
+The woman in charge of the <span class="political-bodies-places">[[Runological Weapon Research Facility]]</span> of the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span>.
+<span class="miscellaneous">[[Elena Frahm|Elena]]</span> is carefree and careless, and people say that without her assistant <span class="people">[[Dion Landers|Dion]]</span>, she wouldn't even be able to handle her own day-to-day tasks, let alone manage the entire facility.
+On the other hand, she is also without doubt an ingenious <span class="miscellaneous">[[Runologist|runologist]]</span> with many novel, inspired ideas.
+<span class="miscellaneous">[[Elena Frahm|Elena's]]</span> knowledge may be strangely uneven, but in the areas where she is proficient, she exhibits genius that is second to none.
+As a larger-than-life woman with no interest whatsoever in the 
+positions and titles people hold, <span class="miscellaneous">[[Elena Frahm|Elena]]</span> has been known to refer to <span class="people">[[Airyglyph XIII]]</span>, the king of the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span> himself, as "Arzy", in spite of his lofty position on the <span class="political-bodies-places">[[Continent of Gaitt|continent of Gaitt]]</span>.

@@ -1,0 +1,5 @@
+A military unit of the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span> commanded by <span class="people">[[Clair Lasbard]]</span> that was originally charged with the defense of <span class="political-bodies-places">[[Aquios]]</span>.
+Now that the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span> has been invaded, however, the <span class="miscellaneous">[[Shield Legion]]</span> has been dispatched to the town of <span class="political-bodies-places">[[Arias]]</span>.
+The Demon Hunter Legion, which was previously charged with the defense of <span class="political-bodies-places">[[Arias]]</span>, and the Chain Legion, which is in charge of <span class="political-bodies-places">[[Peterny|Peterny's]]</span> defense, both report directly to the <span class="miscellaneous">[[Shield Legion]]</span>.
+
+#Organization

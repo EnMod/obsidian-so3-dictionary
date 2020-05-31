@@ -1,0 +1,4 @@
+A sybarite who is more than meets the eye.
+While chopping wood in the mountains with his buddies, <span class="people">[[Damda Mooda|Damda]]</span> learned a method of cooking that he decided to make his own, referring to it by the absurd name of Damda Casserole.  He then started his own restaurant in an attempt to sell this cuisine, failed miserably, and went bankrupt in the blink of an eye.
+Perhaps the tragic end to <span class="people">[[Damda Mooda|Damda's]]</span> story should come as no surprise.  
+Anyone can bang together a casserole out of vegetables, mushrooms, and whatever flavorings are at hand.

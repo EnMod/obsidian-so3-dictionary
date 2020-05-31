@@ -1,0 +1,2 @@
+Head of security for <span class="miscellaneous">[[Sphere]]</span>, the de facto power in charge of the <span class="political-bodies-places">[[Lost City]]</span>.
+Arrogant and drunk on his own power, <span class="people">[[Azazer]]</span> is not very popular.

@@ -1,0 +1,4 @@
+A secret art that may only be taught to selected members of the royal house of the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span>.  The technique of <span class="miscellaneous">[[Runology|runology]]</span>, which is practiced by inscribing certain patterns known as <span class="miscellaneous">[[Rune|runes]]</span> on the body, and by combining special incantations and sigils, is able to effect a variety of different phenomena.
+Although the relationship between <span class="miscellaneous">[[Runology|runology]]</span> and that which is referred to as <span class="miscellaneous">[[Symbology|symbology]]</span> in the <span class="political-bodies-places">[[Pangalactic Federation]]</span> is unclear at present, it would seem that they are fundamentally similar.
+
+#ScientificTerm

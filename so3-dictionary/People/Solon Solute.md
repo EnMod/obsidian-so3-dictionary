@@ -1,0 +1,3 @@
+A member of the <span class="miscellaneous">[[Eternal Sphere]]</span> development team who works at <span class="miscellaneous">[[Sphere]]</span>, this graphic artist designs people, monsters, and various other elements.
+<span class="people">[[Solon Solute|Solon]]</span> is also an amazing gamer and programmer, and is often put in charge of discovering and fixing bugs.  In other words, <span class="people">[[Solon Solute|Solon]]</span> is very useful to all of the company's departments.
+<span class="people">[[Solon Solute|Solon]]</span> and the programmer <span class="people">[[Dirna Hamilton|Dirna]]</span> are an on again, off again couple.

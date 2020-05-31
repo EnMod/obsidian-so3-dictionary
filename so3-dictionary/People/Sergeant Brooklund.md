@@ -1,0 +1,2 @@
+The current military leader of <span class="political-bodies-places">[[Rezerb]]</span>.
+A master of guerrilla tactics and terrorism, <span class="people">[[Sergeant Brooklund|Brooklund]]</span> overthrew his corrupt superiors in a revolution ten years ago, and thereby attained his current position.

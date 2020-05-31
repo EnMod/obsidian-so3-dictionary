@@ -1,0 +1,3 @@
+One of the top managers of <span class="miscellaneous">[[Sphere]]</span>, the real power in the <span class="political-bodies-places">[[Lost City]]</span>.  
+<span class="people">[[Belzeber]]</span> is the son of the previous owner and founder of <span class="miscellaneous">[[Sphere]]</span>.
+He comes from a wealthy family, and doesn't even care about <span class="miscellaneous">[[Sphere]]</span> or the <span class="miscellaneous">[[Eternal Sphere]]</span>.  His primary motivation is deep hatred of the current owner for having usurped what he saw as rightfully his, so he is plotting the owner's downfall.

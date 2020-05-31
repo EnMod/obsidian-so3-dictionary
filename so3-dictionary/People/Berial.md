@@ -1,0 +1,4 @@
+One of the top managers of <span class="miscellaneous">[[Sphere]]</span>, the real power in the <span class="political-bodies-places">[[Lost City]]</span>.  
+<span class="people">[[Berial]]</span> is also the general director of the <span class="miscellaneous">[[Eternal Sphere]]</span> project.
+<span class="people">[[Berial]]</span> sometimes directly interferes in the <span class="miscellaneous">[[Eternal Sphere]]</span> in order to prevent stagnation of the game universe.
+According to reports, he has created characters with powerful parameters, switched the homelands of certain people, and removed bugs in a certain time control loop program.

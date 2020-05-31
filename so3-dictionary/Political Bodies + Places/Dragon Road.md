@@ -1,0 +1,3 @@
+The only road that leads to the <span class="political-bodies-places">[[Urssa Lava Caves]]</span>, which are located in the northernmost region of <span class="political-bodies-places">[[Airyglyph]]</span>.  There is a legend that <span class="people">[[Airyglyph I]]</span>, the first king of the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span>, climbed this road in order to negotiate with the <span class="races">[[Air Dragon|air dragons]]</span>.  This was done to enlist their aid against evil demons.
+
+#Nickname

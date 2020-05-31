@@ -1,0 +1,4 @@
+The sector of the Milky Way galaxy that includes the <span class="political-bodies-places">[[Sol System]]</span> and Arkula System.
+<span class="political-bodies-places">[[Theta Sector|Theta sector]]</span> is the center of the <span class="political-bodies-places">[[Pangalactic Federation]]</span>, physically, politically, and also historically.  Many important <span class="political-bodies-places">[[Pangalactic Federation]]</span> facilities are located within this sector, including <span class="political-bodies-places">Remote Stations #1</span> and <span class="political-bodies-places">#2</span>.
+
+#Sector

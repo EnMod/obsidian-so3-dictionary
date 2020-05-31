@@ -1,0 +1,3 @@
+The central god of the <span class="miscellaneous">[[Church of Apris]]</span>, the most widely followed religion on the <span class="political-bodies-places">[[Continent of Gaitt|continent of Gaitt]]</span>.  The star <span class="political-bodies-places">[[Elicoor]]</span> is said to be the physical manifestation of <span class="miscellaneous">[[Apris]]</span>.  The teachings say now that <span class="miscellaneous">[[Apris]]</span> has set his own body on fire and became <span class="political-bodies-places">[[Elicoor]]</span>, he can no longer return to the ground, but by sending the <span class="miscellaneous">[[Emissary of Apris]]</span>, he is still able to lead the people.
+
+#Myth-Tradition

@@ -1,0 +1,2 @@
+A <span class="races">[[Humanoid|humanoid]]</span> living in the town of <span class="political-bodies-places">[[Surferio]]</span> descended from an ancient and honored clan with the power to read the stars.
+He sometimes speaks in a formal, stilted manner that belies the fact that he is still just a child.  Perhaps this is because he has read so many texts written in ancient tongues.

@@ -1,0 +1,3 @@
+An armed band of thieves that has recently made its base in <span class="political-bodies-places">[[Duggus Forest]]</span>, to the west of the town of <span class="political-bodies-places">[[Peterny]]</span>.  The <span class="miscellaneous">[[Moonshadow Clan]]</span> preys upon merchants passing by on the road, robbing them of all the money and valuables they can get their hands on.
+
+#Organization

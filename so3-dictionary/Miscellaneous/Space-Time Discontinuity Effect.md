@@ -1,0 +1,7 @@
+Assume that person A has traveled three seconds back in time.  For three seconds, the person A before the time travel (A1) and the person A coming back from three seconds in the future (A2) will exist simultaneously, overlapping in time.
+If, after three seconds pass, A1 travels back into the past, then no problem will occur.  But if A2 should prevent this from happening somehow, what would happen?
+This <span class="miscellaneous">[[Space-Time Discontinuity Effect]]</span> has been proposed as one possible answer to the question.
+According to Professor J.D. Wormer, who published this theory, the simultaneous existence of identical matter in the same space-time puts a tremendous strain on that space, so if a situation occurs whereby a person travels to the past and prevents his own movement through time, then as a result, person A will be infinitely duplicated, and three-dimensional space will contract into the singularity caused by the infinite mass created.
+In the same paper, Professor J.D. Wormer also predicts that if this type of phenomenon were to occur in the future, then the amount of mass in three-dimensional space would shrink to zero, and the dimensions themselves would revert to nothingness.
+
+#ScientificTerm

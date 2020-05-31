@@ -1,0 +1,8 @@
+Many organisms have been referred to as "<span class="races">[[Dragon|dragons]]</span>" since days of old, but in general, this term is used to describe huge reptiles with collarbones or shoulder blades that have evolved into wings.
+Most "<span class="races">[[Dragon|dragons]]</span>" are little more than gigantic lizards, but some boast a high level of intelligence, as well as the ability to use a unique type of magic known as "<span class="races">[[Dragon|dragon]]</span> lore magic".
+These highly intelligent <span class="races">[[Dragon|dragons]]</span> are extremely fond of precious metals such as gold and <span class="miscellaneous">[[Silver|silver]]</span>, and enjoy resting on heaping piles of the same.
+Note, however, that this does not reflect any particular greed on their part.  The <span class="races">[[Dragon|dragons]]</span> use the high heat conductivity of the metal to lower their body temperature.
+Many <span class="races">[[Dragon|dragons]]</span> use a unique internal organ commonly referred to as the "breath sack" to generate methane and other combustible gases from materials such as the rotting corpses of other animals.
+The combustive gas created in this fashion is concentrated within the mouth, and gradually accumulates in a hollow at the bottom of the nostril.  <span class="races">[[Dragon|Dragons]]</span> utilize their famous "fire breath" weapon by expelling this gas at high pressure, while rubbing their sharp teeth together to generate sparks and thereby ignite the gas.
+
+#RaceCategory

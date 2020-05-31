@@ -1,0 +1,1 @@
+The last queen of the <span class="political-bodies-places">[[Ancient Kingdom of Aquor]]</span>, this woman was also the mother of <span class="people">[[Airyglyph I]]</span>, who founded the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span>.

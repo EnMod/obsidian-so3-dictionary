@@ -1,0 +1,4 @@
+A huge continent located to the east of the <span class="political-bodies-places">[[Continent of Gaitt|continent of Gaitt]]</span>, <span class="political-bodies-places">[[Continent of Greeton|Greeton]]</span> alone accounts for 40% of the entire land surface area of <span class="political-bodies-places">[[Elicoor II]]</span>.
+However, there are only two landmasses on <span class="political-bodies-places">[[Elicoor II]]</span> that are large enough to be called continents-<span class="political-bodies-places">[[Continent of Gaitt|Gaitt]]</span> and <span class="political-bodies-places">[[Continent of Greeton|Greeton]]</span>.  <span class="political-bodies-places">[[Elicoor II|Elicoor II's]]</span> northern hemisphere has a number of island chains, but no continents.
+
+#PlaceName

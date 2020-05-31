@@ -1,0 +1,9 @@
+A hybrid species resulting from the combination of <span class="races">[[Human|humans]]</span> living on the planet <span class="political-bodies-places">[[Expel]]</span> with the native <span class="races">[[Felinefolk]]</span>.
+The <span class="races">[[Expelian]]</span> race's difference from most other sentient races is in its development as a result of a hybridization process involving a number of different sentient life forms over a long period of time.
+Due to their origins, members of the race have an extremely wide variety of distinguishing characteristics.  Only some have tails, and there are many types of ear shapes, eye, and coloration patterns.
+Incidentally, the children of two <span class="races">[[Expelian]]</span> parents with the same recessive gene in the 12th chromosome are known to revert to the ancestral <span class="races">[[Felinefolk]]</span> form, so on the planet <span class="political-bodies-places">[[Expel]]</span>, a <span class="miscellaneous">[[DNA]]</span> analysis is legally required before marriage.
+Another noteworthy characteristic of the <span class="races">[[Expelian|Expelians]]</span> is that in extremely rare cases, individuals are born with a powerful natural <span class="miscellaneous">[[Symbology|symbological]]</span> ability.
+These types of <span class="races">[[Expelian|Expelians]]</span> possess an advanced <span class="miscellaneous">[[Symbology|symbological]]</span> structure inside their very <span class="miscellaneous">[[DNA]]</span>, and this enables them to use <span class="miscellaneous">[[Symbology|symbology]]</span> without resorting to inscribing <span class="miscellaneous">[[Symbol|symbols]]</span> on their bodies.
+These special <span class="races">[[Expelian|Expelians]]</span> often have a distinguishing characteristic--long ears.
+
+#Race

@@ -1,0 +1,4 @@
+A facility of the <span class="political-bodies-places">[[Pangalactic Federation]]</span> built to serve as a base for military defense or the mining of resources.  As of the current year of 772 <span class="miscellaneous">[[SD]]</span>, the <span class="political-bodies-places">[[Pangalactic Federation]]</span> possesses a total of 43 <span class="miscellaneous">[[Space Station|space stations]]</span> and nine remote stations.
+Remote stations are those that have been set up as staging bases for reconnaissance into unexplored regions of space.  Not all remote stations are located in frontier regions.
+
+#TechnologyName

@@ -1,0 +1,3 @@
+A system of gigantic ice caves that sprawl throughout underground <span class="political-bodies-places">[[Airyglyph]]</span>.  The <span class="political-bodies-places">[[Airyglyph Aqueducts]]</span> are so vast that neither the spies from the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span>, who use them like a highway, nor the inhabitants of the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span>, who live immediately above them, are aware of their true size.
+
+#PlaceName

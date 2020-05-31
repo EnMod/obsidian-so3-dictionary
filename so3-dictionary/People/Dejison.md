@@ -1,0 +1,2 @@
+An elderly scholar who was permanently sidetracked after becoming enamored with the intricate workings of the <span class="miscellaneous">[[Mechanized Corps]]</span>, while conducting research in the city of <span class="political-bodies-places">[[Surferio]]</span>.
+This troubled individual, who likes to refer to himself as "<span class="people">[[Dejison]]</span>, the Invention King", has applied for patents to countless useless inventions, which he derives by following a feckless and scattergun approach to inventing.

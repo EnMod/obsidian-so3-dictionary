@@ -1,0 +1,7 @@
+The captain of the <span class="miscellaneous">[[Black Brigade]]</span>, one of the three military forces of the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span>.  His nickname is <span class="people">[[Albel the Wicked]]</span>.
+He is an excellent combatant specializing in the katana, a special kind of sword, and in one-on-one combat, he is said to possess skills comparable to <span class="people">[[Duke Vox]]</span>, the captain of the <span class="miscellaneous">[[Dragon Brigade]]</span>.
+
+# Part 2
+
+During <span class="people">[[Albel Nox|Albel's]]</span> <span class="miscellaneous">[[Accession of the Flame]]</span> ceremony, which occurred when he was fifteen years old, he failed to take his place among the knights of the <span class="miscellaneous">[[Dragon Brigade]]</span> when he was unable to release his own individual feelings and commune with the spirit of the <span class="races">[[Air Dragon|air dragon]]</span>.
+He should have died for his hubris as the <span class="races">[[Dragon|dragons]]</span> breathed their fury upon him, but his father <span class="people">[[Glou Nox]]</span> shielded him with his own body and bore the brunt of the flames, saving his life (although Albel did lose his left arm in this incident).

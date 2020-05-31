@@ -1,0 +1,3 @@
+A functionary who assists the Queen of the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span> in both political and military matters.
+Of all the many clergy members in <span class="political-bodies-places">[[Kingdom of Aquaria|Aquaria]]</span>, <span class="political-bodies-places">[[Magistrate Lasselle|Lasselle]]</span> is the most 
+knowledgeable when it comes to the obligations and responsibilities of those in authority.  His habit of trying to shape the complicated reality into his idealistic worldview gives him fits at times.

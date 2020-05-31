@@ -1,0 +1,3 @@
+Located on the <span class="political-bodies-places">[[Continent of Greeton|continent of Greeton]]</span> on <span class="political-bodies-places">[[Elicoor II]]</span>, <span class="political-bodies-places">[[Kingdom of Greeton|Greeton]]</span> is well known for its technological sophistication.  Most of the population of <span class="political-bodies-places">[[Kingdom of Greeton|Greeton]]</span> is comprised of <span class="races">[[Humanoid|humanoids]]</span> known as <span class="races">[[Rockfolk]]</span>, and is rumored to possess a relatively high level of mechanical technology.  However, details about <span class="political-bodies-places">[[Kingdom of Greeton|Greeton]]</span> are scarce as it closed itself off to outsiders centuries ago.
+
+#Country

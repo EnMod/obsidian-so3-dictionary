@@ -1,0 +1,3 @@
+The former <span class="miscellaneous">[[Crimson Blade]]</span>, <span class="people">[[Nel Zelpher|Nel's]]</span> father, and wielder of the <span class="miscellaneous">[[Blades of Ryusen]]</span>, a royal treasure of the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span>.
+He has been missing-in-action for several years since a mission to infiltrate the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span>.
+All of the responsibilities that used to belong to <span class="people">[[Nevelle Zelpher|Nevelle]]</span> are currently being carried out by his daughter, <span class="people">[[Nel Zelpher|Nel]]</span>.

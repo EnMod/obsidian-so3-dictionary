@@ -1,0 +1,11 @@
+A young and beautiful <span class="races">[[Human|human]]</span> girl born on <span class="political-bodies-places">[[Earth]]</span> who is the leader of the anti-<span class="political-bodies-places">[[Pangalactic Federation|Federation]]</span> organization <span class="miscellaneous">[[Quark]]</span>--a group most active in the Klaus system.
+She claims that she was modified with <span class="miscellaneous">[[Symbological Genetics|symbological genetics]]</span> into some sort of biological weapon by both Dr. Leingods, [[Robert Leingod|Robert]]</span> and [[Ryoko Leingod|Ryoko]]</span>.
+Furthermore, she says that <span class="people">[[Fayt Leingod|Fayt]]</span> is also such a weapon.
+It is true that both <span class="people">[[Fayt Leingod|Fayt]]</span> and <span class="people">[[Maria Traydor|Maria]]</span> possess latent powers that are clearly more than just <span class="miscellaneous">[[Symbology|symbology]]</span> or <span class="miscellaneous">[[Qigong|qigong]]</span>, but at this moment, there is no way to prove that these mysterious powers are the result of the scientists' experiments, as she claims.
+Regardless, many people believe her earnest words, and although she is an <span class="races">[[Earthling]]</span>, her impeccable integrity led the anti-<span class="political-bodies-places">[[Pangalactic Federation|Federation]]</span> organization <span class="miscellaneous">[[Quark]]</span> to make her their leader.
+
+# Part 2
+
+In order to save the universe from the descending hand of judgment of the <span class="races">[[4D Being|4D beings]]</span>, <span class="people">[[Maria Traydor|Maria]]</span> was given the power of <span class="miscellaneous">[[Alteration]]</span> by the Leingods and their fellow researcher, <span class="people">[[Clive Esteed|Dr. Clive Esteed]]</span>.
+<span class="people">[[Maria Traydor|Maria]]</span> knows the reason why, about the struggle of <span class="people">[[Robert Leingod|Dr. Leingod]]</span> and his team, and about her own mission as well, but all of this is little comfort for her.
+The fact remains that <span class="people">[[Maria Traydor|Maria's]]</span> body was modified without her consent.

@@ -1,0 +1,4 @@
+A <span class="races">[[Humanoid|humanoid]]</span> of the <span class="races">[[Drowglynn]]</span> race, members of which mainly reside in the <span class="political-bodies-places">[[Sanmite Republic]]</span>.
+Conversations with this man (or woman?) never seem to go anywhere.
+Even so, <span class="people">[[The Killer Chef|the Chef's]]</span> conversational abilities are actually vastly superior to those of the typical <span class="races">[[Drowglynn]]</span>.  This is because <span class="people">[[The Killer Chef|the Chef's]]</span> is so interested in the <span class="races">[[Human|human]]</span> race, he's actually taken it upon himself to learn how to cook.
+The thought processes of <span class="races">[[Drowglynn|Drowglynns]]</span> are, for the most part, entirely foreign to the <span class="races">[[Human|human]]</span> mind.  In fact, it is said that not even the gods themselves are capable of perfectly translating the language of this bizarre race.

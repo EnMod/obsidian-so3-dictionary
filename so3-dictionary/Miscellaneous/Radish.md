@@ -1,0 +1,11 @@
+The <span class="miscellaneous">[[Transport Ship|transport ship]]</span> on which <span class="people">[[Maria Traydor|Maria]]</span> escaped from <span class="political-bodies-places">[[Federation Station 17|Federation Station #17]]</span> as a child.
+Unfortunately, the forces of the <span class="political-bodies-places">[[Aldian Empire]]</span> that destroyed <span class="political-bodies-places">[[Federation Station 17|Federation Station #17]]</span> pursued and destroyed this ship as well.
+The <span class="miscellaneous">[[Radish]]</span> acquired its name in an incident many years before the ship was cooked in the above-mentioned altercation with the <span class="political-bodies-places">[[Aldian Empire]]</span>.
+Tasked with bringing aid to a famine-struck planet in the <span class="political-bodies-places">[[Lambda Sector|Lambda sector]]</span>, the crew packed the ship with food--primarily radishes, as radish soup is nutritious and easy to prepare.
+Unfortunately, packing regulations were ignored in the rush to leave port, and soon after their departure, the substandard cargo containers began to break open.  The crew fought a week long holding mission against a sea of radishes spilling forth from the cargo bays.
+In the chaos, stray radishes managed to find their way into hundreds of crevices, and even into the maintenance tunnels between the walls.  
+Weeks after the mission was complete, radishes were still turning up throughout the ship.
+Worst of all, as time passed they ripened, creating an unbearable stench.  Unable to ignore the pleas of his crew, the captain put into <span class="political-bodies-places">[[Remote Station 7|Remote Station #7]]</span> for maintenance.  To his dismay, the maintenance chief recommended a full refit.
+Two weeks later when the refit was complete, the captain rechristened the ship "<span class="miscellaneous">[[Radish]]</span>" in an uncharacteristic display of humor, most likely developed during his long vacation on Hyda III.
+
+#Ship

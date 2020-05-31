@@ -1,0 +1,8 @@
+The latest model of battle spaceship, used as the backbone of the <span class="political-bodies-places">[[Pangalactic Federation]]</span> military.
+Since <span class="miscellaneous">[[Battleship|battleships]]</span> are built out of carbonic neotide, which as extremely high light beam absorption characteristics, they boast stealth characteristics that are dramatically superior to those of other ship classes.
+<span class="miscellaneous">[[Battleship|Battleships]]</span> are approximately 300 meters long, sport a variety of armaments such as <span class="miscellaneous">[[Creation Cannon|creation cannons]]</span>, <span class="miscellaneous">[[Phase Cannon|phase cannons]]</span>, and <span class="miscellaneous">[[Quantum Torpedo|quantum torpedoes]]</span>, and are extremely versatile.
+Also, <span class="miscellaneous">[[Battleship|battleships]]</span> are designed with the capability to simultaneously fire out of multiple gun ports, for overwhelming firepower that goes beyond what one would ordinarily believe possible.
+<span class="miscellaneous">[[Battleship|Battleships]]</span> are also fully equipped from a defense standpoint, and are able to block up to 2.94 x 10<sup>8</sup> units of energy by using a sympathetic vibration effect between two onboard <span class="miscellaneous">[[Space-Time Displacement Shield|space-time displacement shields]]</span>.  
+These high-quality shields are manufactured by Ostin Manufacturing, which as the best reputation of any manufacturer in the <span class="political-bodies-places">[[Pangalactic Federation]]</span>.
+
+#Ship

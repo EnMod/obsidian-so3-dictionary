@@ -1,0 +1,2 @@
+A young noblewoman of the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span> who loves nothing better than to stare off into space and dine on fine food.
+<span class="people">[[Rigel]]</span> is incredibly picky when it comes to the food she eats.  She somehow became an excellent chef herself in the process of hounding her family's resident chef morning, noon, and night to ensure that her meals are prepared according to her exacting standards.

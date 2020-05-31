@@ -1,0 +1,3 @@
+A wicked <span class="miscellaneous">[[Mechateer]]</span> who led the unmatched <span class="miscellaneous">[[Mechanized Corps]]</span> in an invasion of what would later become Aquarian territory, destroying the <span class="political-bodies-places">[[Ancient Kingdom of Aquor]]</span>.
+This person possessed extremely advanced technology for manipulating mechs, and was also referred to as the <span class="miscellaneous">[[Mech Master|Mech master]]</span>.
+It is said that <span class="people">[[Sirvia I]]</span> used the power of the <span class="miscellaneous">[[Sacred Orb]]</span> received from the <span class="miscellaneous">[[Emissary of Apris]]</span> to destroy <span class="people">[[The Snake of Valeria|the Snake of Valeria]]</span>.

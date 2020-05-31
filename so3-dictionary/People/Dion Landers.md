@@ -1,0 +1,3 @@
+The young assistant of <span class="miscellaneous">[[Elena]]</<span class="people">[[Elena Frahm]]</span>, head of the <span class="political-bodies-places">[[Runological Weapon Research Facility]]</span> of the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span>.
+Unlike his boss <span class="miscellaneous">[[Elena]]</span>, <span class="people">[[Dion Landers|Dion]]</span> is a dependable and hard-working person, and is highly skilled at applying existing technology in order to build things.
+On the other hand, <span class="people">[[Dion Landers|Dion]]</span> lacks creativity, and suffers from an inability to do more than build according to preexisting models.

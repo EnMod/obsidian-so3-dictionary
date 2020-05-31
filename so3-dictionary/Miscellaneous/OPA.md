@@ -1,0 +1,4 @@
+An abbreviation of "out of place artifact", which is an object that is far too technologically advanced for the age and place in which it was discovered.
+<span class="miscellaneous">[[OPAs]]</span> usually turn out to be merely exaggerations based on faulty analysis, or underrated evaluations of alien cultures stemming from the arrogance of their discoverers.  But in some cases, such as the <span class="miscellaneous">[[Time Gate]]</span> that exists on the planet <span class="political-bodies-places">[[Styx]]</span>, or the <span class="miscellaneous">[[Creation Energy|creation energy]]</span> that was discovered on the planet <span class="political-bodies-places">[[Milokeenia]]</span>, the <span class="miscellaneous">[[OPA|OPA's]]</span> presence cannot be so easily explained away.
+
+#Other

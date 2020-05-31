@@ -1,0 +1,5 @@
+This is a device that controls temperature and humidity around the wearer by absorbing the surrounding air and adjusting it so that the wearer is not affected by the external environment.
+Of course, there are limits to the system's capabilities, as it is only designed to insure that the wearer is able to breathe.  Its specifications do not cover environments colder than 30 degrees below zero centigrade, or hotter than 70 degrees centigrade.
+Some models exist that offer complete atmospheric control, including oxygen generation, temperature, and air pressure control.  However, most people use fully enclosed suits for such demanding environments, other than a small few who prefer to use a <span class="miscellaneous">[[Thermostat|thermostat]]</span> as a matter of personal preference.
+
+#TechnologyName

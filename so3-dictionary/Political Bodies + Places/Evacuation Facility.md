@@ -1,0 +1,4 @@
+In an emergency, any of the <span class="miscellaneous">[[Transporter|transporters]]</span> located throughout <span class="political-bodies-places">[[Iruba]]</span> can be used to go to the <span class="political-bodies-places">[[Evacuation Facility]]</span>. (To evacuate...duh.)
+Although there are several emergency <span class="political-bodies-places">[[Evacuation Facility|evacuation facilities]]</span> of this nature located in civilized cities around the <span class="political-bodies-places">[[Pangalactic Federation]]</span>, this is the first time such a system was ever used on <span class="political-bodies-places">[[Hyda IV]]</span> or anywhere in the Hyda system.
+
+#Facility

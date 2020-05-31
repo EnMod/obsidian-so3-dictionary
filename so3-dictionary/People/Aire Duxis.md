@@ -1,0 +1,1 @@
+An employee of <span class="miscellaneous">[[Sphere]]</span> and member of the <span class="miscellaneous">[[Eternal Sphere]]</span> development team, <span class="people">[[Aire Duxis|Aire]]</span> manages the <span class="miscellaneous">[[Eternal Sphere|Eternal Sphere's]]</span> various parameters among other tasks.

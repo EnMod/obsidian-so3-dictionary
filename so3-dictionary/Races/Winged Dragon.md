@@ -1,0 +1,5 @@
+<span class="races">[[Winged Dragon|Winged dragon]]</span> is a general term that refers to any type of <span class="races">[[Dragon|dragon]]</span> with wings that can fly.  On <span class="political-bodies-places">[[Elicoor II]]</span>, this term is mainly used to refer to the planet's brass <span class="races">[[Dragon|dragons]]</span>.
+Usually, all flying <span class="races">[[Dragon|dragons]]</span> are referred to as <span class="races">[[Winged Dragon|winged dragons]]</span>, but in the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span>, a distinction is made between the vitally important <span class="races">[[Air Dragon|air dragons]]</span> and other flying <span class="races">[[Dragon|dragons]]</span>.  Therefore <span class="races">[[Air Dragon|air dragons]]</span> are not referred to as <span class="races">[[Winged Dragon|winged dragons]]</span> in this kingdom.
+
+
+#DragonSpecies

@@ -1,0 +1,3 @@
+A woman of the <span class="races">[[Featherfolk]]</span>, a race that boasts large wings extending from their backs.
+Perhaps because she is extremely light, even for a <span class="races">[[Featherfolk]]</span>, <span class="people">[[Stanice]]</span> enjoys taking long "walks" in the clouds, flying from place to place.
+Nightfall often catches up to <span class="people">[[Stanice]]</span> during her outings, and she is forced to wait for daybreak all alone, up in the treetops.

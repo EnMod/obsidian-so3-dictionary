@@ -1,0 +1,5 @@
+A ceremony in the <span class="political-bodies-places">[[Airyglyph, Military Superpower|military superpower of Airyglyph]]</span> that marks a covenant with the <span class="races">[[Air Dragon|air dragons]]</span> that are such a vitally important part of the Glyphian military.  The ceremony is essentially a proposal from knight to <span class="races">[[Dragon|dragon]]</span> to join forces and fight together.
+Attempting a covenant with a powerful <span class="races">[[Air Dragon|air dragon]]</span> is an extremely dangerous act, and the success rate of such ceremonies is said to be less than 30%.
+Of course, the more powerful the partner, the more dangerous the fight needed to complete this ceremony.  It is not uncommon for knights with the hubris of exaggerating their own prowess to pay with their lives.
+
+#Other

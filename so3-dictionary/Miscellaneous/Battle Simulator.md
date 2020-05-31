@@ -1,0 +1,3 @@
+A battle simulation system with the latest holographic technology, allowing the user to enjoy a wide variety of different fights with simulated opponents in virtual space.  The system provides deep sensory feedback, not only of the traditional visual and auditory type, but olfactory and tactile as well, resulting in a fighting experience that is essentially indistinguishable from the real thing.
+
+#TechnologyName

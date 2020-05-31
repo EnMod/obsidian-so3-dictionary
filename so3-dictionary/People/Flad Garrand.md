@@ -1,0 +1,4 @@
+A boy living in the town of <span class="political-bodies-places">[[Arkives]]</span> in <span class="political-bodies-places">[[4D Space|4D space]]</span>.
+This devoted game fanatic is completely addicted to the multiplayer game <span class="miscellaneous">[[Eternal Sphere]]</span>, which was developed by <span class="miscellaneous">[[Sphere]]</span>.
+Incidentally, <span class="people">[[Flad Garrand|Flad's]]</span> character Major Alex is a noted flying ace who shot down a total of 574 combat ships in the third <span class="political-bodies-places">[[Tetragenesis]]</span> War.
+The time he must have spent to achieve this may explain why his mother is constantly telling him to stop playing games and study.

@@ -1,0 +1,2 @@
+The older brother of <span class="people">[[Sirvia I]]</span>, the Queen of Freedom, and a leading figure in the Aquarian Freedom War.
+<span class="people">[[Ronaldo Dyne|Ronaldo]]</span> is said to have received the <span class="miscellaneous">[[Sacred Tablet of the Ten Precepts]]</span> from <span class="miscellaneous">[[Elena]]</span>, Goddess of Light, after the <span class="political-bodies-places">[[Kingdom of Aquaria]]</span> was founded.

@@ -1,0 +1,5 @@
+A sentient race living on the snowbound planet of Rondo Lukia.  <span class="races">[[Rondo Lukian|Rondo Lukians]]</span> worship a god of <span class="miscellaneous">[[Destruction|destruction]]</span>, and believe that the universe can only be saved by begging this god for mercy.
+The <span class="races">[[Rondo Lukian|Rondo Lukians]]</span> attempted to conquer the galaxy at one point, and went to war with their neighbors, but they were thwarted in this ambition by an alliance between three planets.
+The <span class="races">[[Rondo Lukian|Rondo Lukians]]</span> were occupied by their conquerors for some time after the war, but thanks to the support of negotiators from the planet Fwee, they eventually regained their independence and joined the <span class="political-bodies-places">[[Pangalactic Federation]]</span>.
+
+#Race

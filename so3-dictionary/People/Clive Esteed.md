@@ -1,0 +1,2 @@
+<span class="people">[[Sophia Esteed|Sophia's]]</span> father, a <span class="races">[[Human|human]]</span> born on <span class="political-bodies-places">[[Earth]]</span>.
+The leader in space-time theory, Dr. Esteed specializes in research into the 4D wall that one encounters when using <span class="miscellaneous">[[Symbology|symbology]]</span> to transport through space, as well as research into the space-time disturbances that occur when you attempt to pass through this 4D wall.

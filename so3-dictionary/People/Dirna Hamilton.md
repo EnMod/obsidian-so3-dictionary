@@ -1,0 +1,2 @@
+An assistant programmer working on the <span class="miscellaneous">[[Eternal Sphere]]</span> development team at <span class="miscellaneous">[[Sphere]]</span>, responsible for effect processing in battles and other situations.
+Has a rocky love relationship with <span class="people">[[Solon Solute|Solon]]</span>, who also works at <span class="miscellaneous">[[Sphere]]</span>.

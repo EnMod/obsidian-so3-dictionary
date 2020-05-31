@@ -1,0 +1,4 @@
+The sector of the Milky Way galaxy that is home to the <span class="races">[[Vendeeni]]</span>, the most scientifically advanced civilization in the galaxy.  It is also home to a large number of neutral powers that use the <span class="races">[[Vendeeni]]</span> as a shield.
+Planets in this sector are able to maintain their <span class="miscellaneous">[[Independence|independence]]</span> because the area is far away from the <span class="political-bodies-places">[[Pangalactic Federation|Pangalactic Federation's]]</span> center of government, no active anti-<span class="political-bodies-places">[[Pangalactic Federation|Federation]]</span> power uses the area as a base of operations, and most of all, it is near the border of the <span class="political-bodies-places">[[Aldian Empire]]</span>, the <span class="political-bodies-places">[[Pangalactic Federation|Pangalactic Federation's]]</span> primary rival.
+
+#Sector

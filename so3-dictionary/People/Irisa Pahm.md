@@ -1,0 +1,2 @@
+An employee of <span class="miscellaneous">[[Sphere]]</span> and one of the original developers of the <span class="miscellaneous">[[Eternal Sphere]]</span>, Irisa was mainly responsible for world configuration.
+After the <span class="miscellaneous">[[Eternal Sphere]]</span> development project was completed, <span class="people">[[Irisa Pahm|Irisa]]</span> left maintenance responsibilities to the younger developers, and retired after a lifetime of service to the company.

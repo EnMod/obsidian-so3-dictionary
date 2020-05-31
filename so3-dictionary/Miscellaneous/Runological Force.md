@@ -1,0 +1,5 @@
+The force generated when <span class="miscellaneous">[[Runology|runology]]</span> is used.
+The strength of the <span class="miscellaneous">[[Runological Force|runological force]]</span> created will depend to a large extent upon the level of the <span class="miscellaneous">[[Runology|runological]]</span> invocation and the strength of the <span class="miscellaneous">[[Runologist|runologist's]]</span> psyche, as well as upon the runologist's experience and purity of bloodline.
+The purity of a runologist's bloodline is determined by their ancestral <span class="miscellaneous">[[Connection|connection]]</span> to the <span class="miscellaneous">[[Holy Mother]]</span>, <span class="people">[[Aquaria I]]</span>.  The more concentrated the blood of <span class="people">[[Aquaria I]]</span> is in a runologist's veins, the more qualified that <span class="miscellaneous">[[Runologist|runologist]]</span> will be.
+
+#ScientificTerm

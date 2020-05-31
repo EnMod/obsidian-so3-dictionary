@@ -1,0 +1,4 @@
+A semi-arid grass-covered plain between the <span class="political-bodies-places">[[Sacred Kingdom of Aquaria]]</span> and the <span class="political-bodies-places">[[Sanmite Republic]]</span>, the <span class="political-bodies-places">[[Sanmite Steppe]]</span> is surrounded by mountains that cause the altitude to vary dramatically within the region.
+Around the time the <span class="political-bodies-places">[[Kingdom of Airyglyph]]</span> invaded the <span class="political-bodies-places">[[Kingdom of Aquaria]]</span>, armed bands of thieves began infesting the forested areas near this region.
+
+#PlaceName

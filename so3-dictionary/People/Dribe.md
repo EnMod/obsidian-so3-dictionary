@@ -1,0 +1,2 @@
+A <span class="races">[[Humanoid|humanoid]]</span> living in <span class="political-bodies-places">[[Surferio]]</span>, <span class="people">[[Dribe]]</span> has no particularly notable skills, but has a highly simplistic and predictable directness when it comes to his likes and dislikes.
+He is somewhat of a coward, and is afraid of the dark.

@@ -1,0 +1,1 @@
+A young <span class="races">[[Vanguardian]]</span> girl living in the village of <span class="political-bodies-places">[[Whipple]]</span>.  This kindhearted child found <span class="people">[[Fayt Leingod|Fayt]]</span> collapsed on the ground outside the town, and nursed him back to health.

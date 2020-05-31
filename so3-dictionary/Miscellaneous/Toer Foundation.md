@@ -1,0 +1,4 @@
+A Terran organization that discovered records concerning creation energy on the planet <span class="political-bodies-places">[[Milokeenia]]</span>, and eventually succeeded in developing practical applications after a long research project.
+The application of this so-called <span class="miscellaneous">[[Creation Energy|creation energy]]</span> had a revolutionary impact on the galaxy's energy situation.  To this date, there is no explanation of why an <span class="miscellaneous">[[OPA]]</span> technology would be located on <span class="political-bodies-places">[[Milokeenia]]</span>.
+
+#Organization

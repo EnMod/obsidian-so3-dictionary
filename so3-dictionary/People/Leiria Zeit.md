@@ -1,0 +1,3 @@
+A programmer on the <span class="miscellaneous">[[Eternal Sphere]]</span> development team at <span class="miscellaneous">[[Sphere]]</span>, 
+responsible for developing and maintaining flag progress management components for use during critical events, and ordinary system components for use during non-critical periods.
+Unlike her older sister <span class="miscellaneous">[[Shar]]</span>, <span class="people">[[Leiria Zeit|Leiria]]</span> is rather unassertive, and is always getting pushed around at work.

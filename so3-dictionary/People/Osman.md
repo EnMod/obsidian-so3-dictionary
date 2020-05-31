@@ -1,0 +1,3 @@
+A priest who preaches the ways of the gods to the people of the town of <span class="political-bodies-places">[[Arias]]</span>.
+<span class="people">[[Osman]]</span> loves proverbs, precepts, and other "nice little turns of phrase", and has written and published several such works of his own.
+But for some reason, perhaps related to the complexity of his philosophies, his works are not terribly popular.

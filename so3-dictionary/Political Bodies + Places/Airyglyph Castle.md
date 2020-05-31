@@ -1,0 +1,3 @@
+The royal palace of the <span class="political-bodies-places">[[Airyglyph, Military Superpower|military superpower of Airyglyph]]</span>. <span class="political-bodies-places">[[Airyglyph Castle]]</span> was carved out of a mountainside, and resembles a fort more than a traditional castle.  It is said, however, that the castle was not built in this unusual fashion for defensive purposes, but rather because there was not enough flat land to build on.
+
+#Facility

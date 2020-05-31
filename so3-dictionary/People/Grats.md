@@ -1,0 +1,4 @@
+A master swordsman who wielded his sword on battlefields long before <span class="people">[[Fayt Leingod|Fayt]]</span> was born.
+Having been forced to retire from the regular army, this lifelong warrior fought on as a mercenary until requests for his services dried up, he then continued fighting anyway as a volunteer soldier.
+Unfortunately, by the time the latest war began, <span class="people">[[Grats]]</span> exceeded the age restrictions of every unit, and was finally forced to retire completely.
+Regardless, <span class="people">[[Grats]]</span> still wants to fight, and wanders aimlessly around the outskirts of the town of <span class="political-bodies-places">[[Kirlsa]]</span>, looking for any trouble he can find.

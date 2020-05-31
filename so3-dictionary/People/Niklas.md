@@ -1,0 +1,3 @@
+A <span class="races">[[Vanguardian]]</span> boy living in the village of <span class="political-bodies-places">[[Whipple]]</span>.
+<span class="people">[[Niklas]]</span> lost both his parents when they were disintegrated by a man named <span class="people">[[Norton]]</span>, a stranger who suddenly appeared in the village.
+He ekes out a living in the village with his younger sister <span class="people">[[Meena]]</span>.

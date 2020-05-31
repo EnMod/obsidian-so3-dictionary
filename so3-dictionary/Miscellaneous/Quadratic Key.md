@@ -1,0 +1,4 @@
+A special material created by purifying <span class="miscellaneous">[[Energy Stone|energy stone]]</span> to an extremely high degree, and molding it to a specific structure.
+This material amplifies a certain type of energy, and by combining a <span class="miscellaneous">[[Quadratic Key|quadratic key]]</span> with a <span class="miscellaneous">[[Quadrium Sphere|quadratic sphere]]</span>, it is possible to derive even more energy than that which can be derived from antimatter reactions.This material also has a <span class="miscellaneous">[[Symbology|symbological]]</span> effect on the physical structure and psyche of living organisms, so it must be handled with extreme care.
+
+#TechnologyName

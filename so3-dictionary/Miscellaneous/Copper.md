@@ -1,0 +1,4 @@
+A metallic element with an atomic number of 29, an atomic mass of 63.546, a <span class="miscellaneous">[[Melting Point|melting point]]</span> of 1,084.5 degrees centigrade, and a density of 8.96 g/c3.
+Although there are other substances that conduct electricity better than <span class="miscellaneous">[[Copper|copper]]</span>, all of them are much more expensive, or more complicated to produce, so <span class="miscellaneous">[[Copper|copper]]</span> is treasured as a material for conducting <span class="miscellaneous">[[Electric Current|electric current]]</span> on almost all civilized planets, including <span class="political-bodies-places">[[Earth]]</span>.
+
+#Other
