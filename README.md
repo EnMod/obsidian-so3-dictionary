@@ -6,6 +6,7 @@ In this repo you'll find:
 
 - The Obsidian vault proper (in `so3-dictionary`)
 - The JS I wrote for all the text manipulation up until I thought "That's enough hand-rolled text manipulation coding in JS for one lifetime, thanks" (in `js-scripts`)
+- _**MAJOR SPOILERS FOR THE GAME.**_  Yeah, it's almost 16 years old at this point, but this is just a fair warning!
 
 # Table of contents
 - [How to use the vault](#how-to-use-the-vault)
