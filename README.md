@@ -25,9 +25,7 @@ Currently the CSS theme powering the appearance is stable in Obsidian version `0
 2. Download/clone down this repo.
 3. Copy the `so3-dictionary` folder somewhere (or, use it right from the repo folder via the next step).
 4. Open Obsidian and point it to the `so3-dictionary` folder.
-5. Enable the custom CSS plugin in the Obsidian settings menu.
-6. Change Appearance to Obsidian (Dark) in the Obsidian settings menu if not already on.
-7. Click around the category folders or tags and enjoy!
+5. Click around the category folders or tags and enjoy!
 
 ## Differences from the in-game dictionary
 
