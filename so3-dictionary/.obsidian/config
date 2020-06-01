@@ -1,0 +1,43 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Custom CSS": true,
+    "Tag pane": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": false,
+  "lastOpenSidebarTab": "File explorer",
+  "workspaceLayout": {
+    "id": "50adfcb0edd2dc49",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "74c5909338d6ca4b",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "sideDockWidth": {
+    "left": 396,
+    "right": 452
+  },
+  "lastOpenFiles": [],
+  "lastOpenRightSidedockTab": "Tags"
+}
