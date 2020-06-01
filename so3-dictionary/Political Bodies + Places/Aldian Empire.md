@@ -4,7 +4,7 @@ The state of the <span class="political-bodies-places">[[Aldian Empire|Aldian Em
 
 # Part 2
 
-The Aldians were wiped out when an <span class="races">[[Executioners|Executioner]]</span> attack destroyed their home world, and the planets that had been under their control gained <span class="miscellaneous">[[Independence|independence]]</span>.
+The Aldians were wiped out when an <span class="races">[[Executioners|Executioner]]</span> attack destroyed their home world, and the planets that had been under their control gained independence.
 However, none of the former subjects of the Aldian Empire have the power to stand up to the <span class="races">[[Executioners]]</span>, with their empire-smashing strength, and the <span class="races">[[Executioners]]</span> are currently massacring the empire's ex-subjects far and wide.
 
 #NationState
