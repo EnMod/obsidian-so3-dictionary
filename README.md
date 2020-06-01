@@ -8,7 +8,7 @@ In this repo you'll find:
 - The JS I wrote for all the text manipulation up until I thought "That's enough hand-rolled text manipulation coding in JS for one lifetime, thanks" (in `js-scripts`)
 - _**MAJOR SPOILERS FOR THE GAME.**_  Yeah, it's almost 16 years old at this point, but this is just a fair warning!
 
-Currently the CSS theme powering the appearance is stable in Obsidian version `0.6.4`.  Updates will occur to restabilize as Obsidian develops!
+Currently the CSS theme powering the appearance is stable in Obsidian version `0.6.5`.  Updates will occur to restabilize as Obsidian rapidly develops!
 
 # Table of contents
 - [How to use the vault](#how-to-use-the-vault)
