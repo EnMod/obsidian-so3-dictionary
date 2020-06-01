@@ -135,19 +135,19 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 .nav-header .nav-buttons-container .nav-action-button:nth-child(1)::after {
         content: 'New note';
-        top: 113px;
+        top: 18px;
         left: var(--left-pad);
       }
 
 .nav-header .nav-buttons-container .nav-action-button:nth-child(2)::after {
         content: 'New folder';
-        top: 150px;
+        top: 52px;
         left: var(--left-pad);
       }
 
 .nav-header .nav-buttons-container .nav-action-button:nth-child(3)::after {
         content: 'Change sort order';
-        top: 186px;
+        top: 89px;
         left: var(--left-pad);
       }
 
@@ -243,7 +243,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
   border-radius: 36px 12px 12px 12px;
 }
 
-.side-dock-plugin-panel .side-dock-title::before, .side-dock-plugin-panel .side-dock-plugin-panel-inner::before, .markdown-source-view::before, .markdown-preview-view::before, .view-header::before {
+.side-dock-plugin-panel .side-dock-title::before, .side-dock-plugin-panel::before, .markdown-source-view::before, .markdown-preview-view::before, .view-header::before {
     position: absolute;
     content: '';
     border: 4px solid #e2e2e2;
@@ -256,13 +256,19 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
     left: 0;
   }
 
+.side-dock-plugin-panel::before {
+    top: 90px;
+    z-index: 1;
+  }
+
+.side-dock-plugin-panel.mod-backlinks::before,
+  .side-dock-plugin-panel.mod-tag-pane::before {
+    top: 87px;
+  }
+
 .view-header::before {
     top: -6px;
     left: -6px;
-  }
-
-.side-dock-plugin-panel .side-dock-plugin-panel-inner::before {
-    top: 90px;
   }
 
 /* ========BG========= */
@@ -425,7 +431,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
     max-width: 830px;
   }
 
-.markdown-preview-view > .markdown-preview-section:first-child {
+.markdown-preview-view > .markdown-preview-section:nth-child(2) {
       /* For Zettelkasten users: Hides the ZK ID from preview if you use the first line for ID */
       /* Uncomment if you prefer keeping ZK ID at the top of your files
     instead of in the filename, but don't want it to show in preview */
@@ -433,7 +439,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 /* display: none; */
 
-.markdown-preview-view > .markdown-preview-section:first-child p {
+.markdown-preview-view > .markdown-preview-section:nth-child(2) p {
         margin-top: -10px;
         margin-bottom: 0.5em;
       }
@@ -776,18 +782,18 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 .nav-header .nav-buttons-container .nav-action-button:nth-child(1)::after {
       content: 'New entry';
-      top: 135px;
+      top: 40px;
       left: var(--left-pad);
     }
 
 .nav-header .nav-buttons-container .nav-action-button:nth-child(2)::after {
       content: 'New category';
-      top: 172px;
+      top: 76px;
       left: var(--left-pad);
     }
 
 .nav-header .nav-buttons-container .nav-action-button:nth-child(3)::after {
-      top: 206px;
+      top: 112px;
       left: var(--left-pad);
     }
 
@@ -802,7 +808,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 /* Moves the first tag into the top-right of the entry */
 
-.markdown-preview-view > .markdown-preview-section:last-child p > .tag {
+.markdown-preview-view > .markdown-preview-section:nth-last-child(2) p > .tag {
     color: var(--clr-white);
     font-size: 41px;
     margin-bottom: 0;
@@ -815,11 +821,11 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
     z-index: 11;
   }
 
-.markdown-preview-view > .markdown-preview-section:last-child p > .tag::before {
+.markdown-preview-view > .markdown-preview-section:nth-last-child(2) p > .tag::before {
       content: '(';
     }
 
-.markdown-preview-view > .markdown-preview-section:last-child p > .tag::after {
+.markdown-preview-view > .markdown-preview-section:nth-last-child(2) p > .tag::after {
       content: ')';
     }
 
