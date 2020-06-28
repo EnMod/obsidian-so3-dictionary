@@ -233,17 +233,17 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 /* =================================== */
 
-.side-dock-plugin-panel .side-dock-title,
-.side-dock-plugin-panel .side-dock-plugin-panel-inner,
+.workspace-leaf-content:not([data-type='markdown']),
 .markdown-source-view,
 .markdown-preview-view,
+.workspace-leaf.mod-active .view-header,
 .view-header {
   border: 6px var(--clr-border-inset);
   border-style: groove ridge ridge groove;
   border-radius: 36px 12px 12px 12px;
 }
 
-.side-dock-plugin-panel .side-dock-title::before, .side-dock-plugin-panel::before, .markdown-source-view::before, .markdown-preview-view::before, .view-header::before {
+.view-header::before {
     position: absolute;
     content: '';
     border: 4px solid #e2e2e2;
@@ -256,20 +256,32 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
     left: 0;
   }
 
-.side-dock-plugin-panel::before {
-    top: 90px;
-    z-index: 1;
-  }
+.workspace-leaf::before {
+  position: absolute;
+  content: '';
+  border: 4px solid #e2e2e2;
+  border-style: groove ridge ridge groove;
+  border-radius: 1px;
+  background: #d8d8d8;
+  width: 13px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
 
-.side-dock-plugin-panel.mod-backlinks::before,
-  .side-dock-plugin-panel.mod-tag-pane::before {
-    top: 87px;
-  }
+.workspace-tabs {
+  padding: 0 4px 30px 3px;
+}
+
+.workspace-leaf-resize-handle {
+  opacity: 0;
+}
 
 .view-header::before {
-    top: -6px;
-    left: -6px;
-  }
+  top: -6px;
+  left: -6px;
+}
 
 /* ========BG========= */
 
@@ -277,8 +289,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 /* =================== */
 
-.side-dock-plugin-panel .side-dock-title,
-.side-dock-plugin-panel .side-dock-plugin-panel-inner,
+.workspace-leaf-content:not([data-type='markdown']),
 .markdown-source-view,
 .markdown-preview-view {
   background: linear-gradient(
@@ -310,7 +321,6 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 }
 
 .view-header .view-header-title-container {
-    padding-left: 20px;
     height: unset;
   }
 
@@ -322,11 +332,11 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
         -3px -3px black;
     }
 
-.workspace-leaf.mod-active .view-header {
-    border-bottom: 8px ridge var(--clr-border-inset);
+.workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .view-header {
+    border-bottom: 6px ridge var(--clr-border-inset);
   }
 
-.workspace-leaf.mod-active .view-header-title-container:after {
+.workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .view-header-title-container:after {
     display: none;
   }
 
@@ -344,7 +354,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 .markdown-preview-view {
   max-width: 100%;
   padding: 16px;
-  padding-top: 98px;
+  padding-top: 58px;
   border-radius: 36px 12px 12px 12px;
 }
 
@@ -427,11 +437,13 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
     padding: 4px 8px;
   }
 
-.markdown-preview-view > .markdown-preview-section {
+.markdown-preview-view.is-readable-line-width .markdown-preview-section {
     max-width: 830px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
-.markdown-preview-view > .markdown-preview-section:nth-child(2) {
+.markdown-preview-view.is-readable-line-width .markdown-preview-section:nth-child(2) {
       /* For Zettelkasten users: Hides the ZK ID from preview if you use the first line for ID */
       /* Uncomment if you prefer keeping ZK ID at the top of your files
     instead of in the filename, but don't want it to show in preview */
@@ -439,7 +451,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 /* display: none; */
 
-.markdown-preview-view > .markdown-preview-section:nth-child(2) p {
+.markdown-preview-view.is-readable-line-width .markdown-preview-section:nth-child(2) p {
         margin-top: -10px;
         margin-bottom: 0.5em;
       }
@@ -549,31 +561,31 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 /* ========= */
 
-.tag-pane-tags {
+[data-type='tag'] {
   padding-top: 15px;
   padding-left: 5px;
 }
 
-.tag-pane-tags .tag-pane-tag {
+[data-type='tag'] .tag-pane-tag {
     font-size: var(--side-dock-font-size);
     color: var(--clr-people);
   }
 
-.tag-pane-tags .tag-pane-tag:hover {
+[data-type='tag'] .tag-pane-tag:hover {
       background: none;
     }
 
-.tag-pane-tags .tag-pane-tag:hover .tag-pane-tag-text {
+[data-type='tag'] .tag-pane-tag:hover .tag-pane-tag-text {
         border-bottom: 2px solid var(--clr-people);
       }
 
-.tag-pane-tags .tag-pane-tag .tag-pane-tag-text {
+[data-type='tag'] .tag-pane-tag .tag-pane-tag-text {
       padding: 0;
       padding-bottom: 4px;
       border-bottom: 2px solid transparent;
     }
 
-.tag-pane-tags .tag-pane-tag .tag-pane-tag-count {
+[data-type='tag'] .tag-pane-tag .tag-pane-tag-count {
       font-size: 18px;
       background-color: transparent;
       text-shadow: var(--small-shadow-outline);
@@ -619,35 +631,35 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 /* ========= */
 
-.mod-backlinks .side-dock-plugin-panel-inner {
+[data-type='backlink'] .side-dock-plugin-panel-inner {
     padding: 27px;
   }
 
-.mod-backlinks .search-empty-state {
+[data-type='backlink'] .search-empty-state {
     color: var(--white);
   }
 
-.mod-backlinks .search-result-file-title {
+[data-type='backlink'] .search-result-file-title {
     font-size: var(--side-dock-font-size);
   }
 
-.mod-backlinks .search-result-file-title:hover {
+[data-type='backlink'] .search-result-file-title:hover {
       background: none;
     }
 
-.mod-backlinks .search-result-file-matches {
+[data-type='backlink'] .search-result-file-matches {
     color: var(--clr-white);
   }
 
-.mod-backlinks .search-result-file-matches .search-result-file-match:hover {
+[data-type='backlink'] .search-result-file-matches .search-result-file-match:hover {
         background: none;
       }
 
-.mod-backlinks .search-result-file-matches .search-result-file-match .search-result-file-matched-text {
+[data-type='backlink'] .search-result-file-matches .search-result-file-match .search-result-file-matched-text {
         background: rgba(229, 230, 71, 0.4);
       }
 
-.mod-backlinks .side-dock-collapsible-section-header {
+[data-type='backlink'] .side-dock-collapsible-section-header {
     padding: 0;
     padding-bottom: 2px;
     border-bottom: 2px solid transparent;
@@ -655,16 +667,16 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
     color: var(--clr-white);
   }
 
-.mod-backlinks .side-dock-collapsible-section-header:hover {
+[data-type='backlink'] .side-dock-collapsible-section-header:hover {
       padding-bottom: 2px;
       border-bottom: 2px solid var(--clr-white);
     }
 
-.mod-backlinks .side-dock-collapsible-section-header .side-dock-collapsible-section-header-indicator {
+[data-type='backlink'] .side-dock-collapsible-section-header .side-dock-collapsible-section-header-indicator {
       display: none;
     }
 
-.mod-backlinks .side-dock-collapsible-section-header:not(.is-collapsed) {
+[data-type='backlink'] .side-dock-collapsible-section-header:not(.is-collapsed) {
       padding-bottom: 2px;
       border-bottom: 2px solid var(--clr-white);
     }
@@ -736,7 +748,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 .nav-folder-title:hover::before, .nav-file-title:hover::before, .tag-pane-tag-text:hover::before, .search-result-file-title:hover::before, .search-result-file-match:hover::before, .side-dock-collapsible-section-header:hover::before {
     content: '👍';
     position: absolute;
-    left: -12px;
+    left: -18px;
     top: 15px;
     transform: scale(-1.75, 1.75) rotate(-45deg);
     filter: grayscale() contrast(150%);
@@ -765,8 +777,8 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 .nav-files-container,
 .item-list,
-.mod-backlinks .side-dock-plugin-panel-inner,
-.mod-global-search .search-result-container,
+[data-type='backlink'] .view-content,
+[data-type='search'] .search-result-container,
 .tag-pane-tags {
   padding: 27px;
 }
@@ -806,9 +818,24 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
   z-index: 15;
 }
 
+/* Moves the note drag handle to the top left of entries */
+
+.view-header-icon {
+  position: absolute;
+  top: -10px;
+  left: -15px;
+  z-index: 15;
+}
+
+/* Moves the title to the right a bit */
+
+.view-header .view-header-title-container {
+  padding-left: 20px;
+}
+
 /* Moves the first tag into the top-right of the entry */
 
-.markdown-preview-view > .markdown-preview-section:nth-last-child(2) p > .tag {
+.markdown-preview-view > .markdown-preview-section:last-child p > .tag {
     color: var(--clr-white);
     font-size: 41px;
     margin-bottom: 0;
@@ -821,11 +848,11 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
     z-index: 11;
   }
 
-.markdown-preview-view > .markdown-preview-section:nth-last-child(2) p > .tag::before {
+.markdown-preview-view > .markdown-preview-section:last-child p > .tag::before {
       content: '(';
     }
 
-.markdown-preview-view > .markdown-preview-section:nth-last-child(2) p > .tag::after {
+.markdown-preview-view > .markdown-preview-section:last-child p > .tag::after {
       content: ')';
     }
 

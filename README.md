@@ -6,11 +6,12 @@ In this repo you'll find:
 
 - The Obsidian vault proper (in `so3-dictionary`)
 - The JS I wrote for all the text manipulation up until I thought "That's enough hand-rolled text manipulation coding in JS for one lifetime, thanks" (in `js-scripts`)
-- _**MAJOR SPOILERS FOR THE GAME.**_  Yeah, it's almost 16 years old at this point, but this is just a fair warning!
+- _**MAJOR SPOILERS FOR THE GAME.**_ Yeah, it's almost 16 years old at this point, but this is just a fair warning!
 
-Currently the CSS theme powering the appearance is stable in Obsidian version `0.6.5`.  Updates will occur to restabilize as Obsidian rapidly develops!
+Currently the CSS theme powering the appearance is stable (-ish) in Obsidian version `0.7.3`. Updates will occur to restabilize as Obsidian rapidly develops!
 
 # Table of contents
+
 - [How to use the vault](#how-to-use-the-vault)
 - [Differences from the in-game dictionary](#differences-from-the-in-game-dictionary)
 - [Differences in functionality from a typical Obsidian CSS theme](#differences-in-functionality-from-a-typical-obsidian-css-theme)
@@ -47,8 +48,9 @@ Currently the CSS theme powering the appearance is stable in Obsidian version `0
 All of these can be turned off by going into `obsidian.css` and commenting out/deleting code in the "SO3-Specific Presentational Styles" section. Use `Ctrl/Cmd+F` in your text editor and search for "SO3" to get there fast.
 
 - Your actions bar is now in the bottom right of your note's pane. The entry type now covers the top right of the header so it had to go somewhere!
+- The "drag this note" icon has been moved into the square in the top-left of the note.
 - All hover-able links pop up a white hand, intended to be analogous to the in-game white glove on menu choices.
-- Popups are removed.
+- Tooltips when hovering over titles/tabs are removed.
 - Note actions have had their descriptive text altered (this text is overall-theme-specific and will have to be disabled from above the SO3-specific styles. Search for the descriptive text to find where it's defined.)
 
 ## Steps I took to make this (in brief)
@@ -57,7 +59,7 @@ All of these can be turned off by going into `obsidian.css` and commenting out/d
 2. Generate separate entries with NodeJS, adding them to folders by category.
 3. **Manually** go into each file to remove _all_ the newlines added by GameFAQs' formatting.
 4. Breathe.
-5. Hack away for days on a solution to parse each entry, `[[internal-link-ify]]` each reference (as well as variants like plurals), all without clashes or overlaps.
+5. Hack away for days on a solution to parse each entry, `[[internal-link-ifying]]` each reference (as well as variants like plurals), all without clashes or overlaps.
 6. Get really close to intended, then just use Visual Studio Code find-and-replace to get the rest and fix bizarre output errors, so I can move on with my life lol.
 
 ## Disclaimer
