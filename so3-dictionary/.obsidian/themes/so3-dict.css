@@ -10,10 +10,10 @@
   --clr-border-inset: #ebebeb;
   --clr-header-dark: rgba(20, 20, 128, 1);
 
-  --header-font: 'Handel Gothic', 'HighlandGothicLightFLF', 'Helvetica Neue',
+  --header-font: "Handel Gothic", "HighlandGothicLightFLF", "Helvetica Neue",
     sans-serif;
-  --body-font: 'Helvetica Neue', 'Nimbus Sans L', sans-serif;
-  --mono-font: 'JetBrains Mono', Consolas, 'Courier New', monospace;
+  --body-font: "Helvetica Neue", "Nimbus Sans L", sans-serif;
+  --mono-font: "JetBrains Mono", Consolas, "Courier New", monospace;
 
   --side-dock-font-size: 21px;
 
@@ -80,7 +80,7 @@ body:not(.is-grabbing) .nav-file-title:hover,
     body:not(.is-grabbing) .nav-folder-title:hover,
     body:not(.is-grabbing) .mod-backlinks .side-dock-collapsible-section-header:hover {
       background: none;
-      color: var(--clr-white);
+      color: var(--clr-selected);
     }
 
 body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
@@ -106,9 +106,8 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
   }
 
 .nav-header .nav-buttons-container .nav-action-button {
-      padding: 0 0 10px 0;
+      padding: 0;
       color: var(--clr-white);
-
       --left-pad: 55px;
     }
 
@@ -118,7 +117,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 .nav-header .nav-buttons-container .nav-action-button::after {
         position: absolute;
-        left: 55px;
+        left: var(--left-pad);
         font-size: var(--side-dock-font-size);
       }
 
@@ -134,19 +133,19 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
       }
 
 .nav-header .nav-buttons-container .nav-action-button:nth-child(1)::after {
-        content: 'New note';
+        content: "New note";
         top: 18px;
         left: var(--left-pad);
       }
 
 .nav-header .nav-buttons-container .nav-action-button:nth-child(2)::after {
-        content: 'New folder';
+        content: "New folder";
         top: 52px;
         left: var(--left-pad);
       }
 
 .nav-header .nav-buttons-container .nav-action-button:nth-child(3)::after {
-        content: 'Change sort order';
+        content: "Change sort order";
         top: 89px;
         left: var(--left-pad);
       }
@@ -159,13 +158,20 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 /* Enables "selected" styling on nav folders */
 
-.nav-folder.mod-root .nav-folder:not(.is-collapsed) .nav-folder-children {
+.nav-folder.mod-root .nav-folder .nav-folder-children {
         margin-bottom: 2em;
       }
 
-.nav-folder.mod-root .nav-folder:not(.is-collapsed) .nav-folder-title-content {
+.nav-folder.mod-root .nav-folder .nav-folder-title-content {
+        color: var(--clr-selected);
         padding-bottom: 2px;
-        border-bottom: 2px solid var(--clr-white);
+        border-bottom: 2px solid var(--clr-selected);
+      }
+
+.nav-folder.mod-root .nav-folder.is-collapsed .nav-folder-title-content {
+        color: var(--clr-white);
+        padding-bottom: 2px;
+        border-bottom: 2px solid transparent;
       }
 
 .nav-folder .nav-folder-title {
@@ -180,7 +186,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 .nav-folder .nav-folder-title:hover .nav-folder-title-content {
         padding-bottom: 2px;
-        border-bottom: 2px solid var(--clr-white);
+        border-bottom: 2px solid var(--clr-selected);
       }
 
 .nav-folder .nav-folder-title .nav-folder-title-content {
@@ -204,12 +210,25 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
     padding: 0px 20px 2px 20px;
   }
 
+.nav-file .nav-file-title.is-being-dragged {
+      background: none;
+    }
+
 .nav-file .nav-file-title:hover {
       background: none;
     }
 
 .nav-file .nav-file-title:hover .nav-file-title-content {
-        border-bottom: 2px solid var(--clr-white);
+        border-bottom: 2px solid var(--clr-selected);
+      }
+
+.nav-file .nav-file-title.is-active {
+      background: none;
+      color: var(--clr-selected);
+    }
+
+.nav-file .nav-file-title.is-active .nav-file-title-content {
+        border-bottom: 2px solid var(--clr-selected);
       }
 
 .nav-file .nav-file-title .nav-file-title-content {
@@ -218,22 +237,13 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
       border-bottom: 2px solid transparent;
     }
 
-.nav-file.is-active > .nav-file-title {
-      background: none;
-      color: var(--clr-selected);
-    }
-
-.nav-file.is-active > .nav-file-title .nav-file-title-content {
-        border-bottom: 2px solid var(--clr-selected);
-      }
-
 /* ============BORDERS================ */
 
 /* Borders and little square in corner */
 
 /* =================================== */
 
-.workspace-leaf-content:not([data-type='markdown']),
+.workspace-leaf-content:not([data-type="markdown"]),
 .markdown-source-view,
 .markdown-preview-view,
 .workspace-leaf.mod-active .view-header,
@@ -245,7 +255,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 .view-header::before {
     position: absolute;
-    content: '';
+    content: "";
     border: 4px solid #e2e2e2;
     border-style: groove ridge ridge groove;
     border-radius: 1px;
@@ -258,7 +268,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 .workspace-leaf::before {
   position: absolute;
-  content: '';
+  content: "";
   border: 4px solid #e2e2e2;
   border-style: groove ridge ridge groove;
   border-radius: 1px;
@@ -289,7 +299,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 /* =================== */
 
-.workspace-leaf-content:not([data-type='markdown']),
+.workspace-leaf-content:not([data-type="markdown"]),
 .markdown-source-view,
 .markdown-preview-view {
   background: linear-gradient(
@@ -387,7 +397,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
         }
 
 .markdown-source-view .cm-s-obsidian span.cm-formatting-list {
-        color: var(--white);
+        color: var(--clr-white);
       }
 
 .markdown-source-view .cm-s-obsidian span.cm-url {
@@ -519,11 +529,13 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
       filter: brightness(55%);
     }
 
+/* ============================= */
+
 .side-dock .side-dock-ribbon-tab-inner:hover svg, .side-dock .side-dock-ribbon-action:hover svg {
         filter: brightness(89%);
       }
 
-/* ============================= */
+/* Ribbon tab icon color changes */
 
 .side-dock .side-dock-ribbon-tab.is-active .side-dock-ribbon-tab-inner svg {
       filter: none;
@@ -531,27 +543,25 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 /* Icon colors */
 
-.side-dock [aria-label='Open Markdown importer'] svg path, .side-dock [aria-label='Open random note'] svg path, .side-dock [aria-label='Create new Zettelkasten note'] svg path, .side-dock [aria-label="Open today's note"] svg path {
+.side-dock [aria-label="Open Markdown importer"] svg path, .side-dock [aria-label="Open random note"] svg path, .side-dock [aria-label="Create new Zettelkasten note"] svg path, .side-dock [aria-label="Open today's note"] svg path {
       stroke: var(--clr-races);
-    }
-
-/* Ribbon tab icon color changes */
-
-.side-dock [aria-label='File explorer'] svg path, .side-dock [aria-label='Search in files'] svg path, .side-dock [aria-label='Starred'] svg path {
-      stroke: var(--clr-selected);
     }
 
 /* ===========RIBBON============ */
 
-.side-dock [aria-label='Open quick switcher'] svg path, .side-dock [aria-label='Backlinks'] svg path, .side-dock [aria-label='Open graph view'] svg path {
+.side-dock [aria-label="File explorer"] svg path, .side-dock [aria-label="Search in files"] svg path, .side-dock [aria-label="Starred"] svg path {
+      stroke: var(--clr-selected);
+    }
+
+.side-dock [aria-label="Open quick switcher"] svg path, .side-dock [aria-label="Backlinks"] svg path, .side-dock [aria-label="Open graph view"] svg path {
       stroke: var(--clr-places);
     }
 
-.side-dock [aria-label='Tags'] svg path {
+.side-dock [aria-label="Tags"] svg path {
       stroke: var(--clr-people);
     }
 
-.side-dock [aria-label='Open another vault'] svg path, .side-dock [aria-label='Settings'] svg path {
+.side-dock [aria-label="Open another vault"] svg path, .side-dock [aria-label="Settings"] svg path {
       stroke: var(--clr-option);
     }
 
@@ -561,31 +571,27 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 /* ========= */
 
-[data-type='tag'] {
-  padding-top: 15px;
-  padding-left: 5px;
-}
-
-[data-type='tag'] .tag-pane-tag {
+[data-type="tag"] .tag-pane-tag {
     font-size: var(--side-dock-font-size);
     color: var(--clr-people);
   }
 
-[data-type='tag'] .tag-pane-tag:hover {
+[data-type="tag"] .tag-pane-tag:hover {
       background: none;
     }
 
-[data-type='tag'] .tag-pane-tag:hover .tag-pane-tag-text {
+[data-type="tag"] .tag-pane-tag:hover .tag-pane-tag-text {
+        color: var(--clr-people);
         border-bottom: 2px solid var(--clr-people);
       }
 
-[data-type='tag'] .tag-pane-tag .tag-pane-tag-text {
+[data-type="tag"] .tag-pane-tag .tag-pane-tag-text {
       padding: 0;
       padding-bottom: 4px;
       border-bottom: 2px solid transparent;
     }
 
-[data-type='tag'] .tag-pane-tag .tag-pane-tag-count {
+[data-type="tag"] .tag-pane-tag .tag-pane-tag-count {
       font-size: 18px;
       background-color: transparent;
       text-shadow: var(--small-shadow-outline);
@@ -602,7 +608,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
   }
 
 .mod-global-search .search-empty-state {
-    color: var(--white);
+    color: var(--clr-white);
   }
 
 .mod-global-search .search-result-file-title {
@@ -631,35 +637,36 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 /* ========= */
 
-[data-type='backlink'] .side-dock-plugin-panel-inner {
+[data-type="backlink"] .side-dock-plugin-panel-inner {
     padding: 27px;
   }
 
-[data-type='backlink'] .search-empty-state {
-    color: var(--white);
-  }
-
-[data-type='backlink'] .search-result-file-title {
-    font-size: var(--side-dock-font-size);
-  }
-
-[data-type='backlink'] .search-result-file-title:hover {
-      background: none;
-    }
-
-[data-type='backlink'] .search-result-file-matches {
+[data-type="backlink"] .search-empty-state {
     color: var(--clr-white);
   }
 
-[data-type='backlink'] .search-result-file-matches .search-result-file-match:hover {
+[data-type="backlink"] .search-result-file-title {
+    font-size: var(--side-dock-font-size);
+  }
+
+[data-type="backlink"] .search-result-file-title:hover {
+      background: none;
+    }
+
+[data-type="backlink"] .search-result-file-matches {
+    color: var(--clr-white);
+    border-bottom: 1px solid var(--clr-separator);
+  }
+
+[data-type="backlink"] .search-result-file-matches .search-result-file-match:hover {
         background: none;
       }
 
-[data-type='backlink'] .search-result-file-matches .search-result-file-match .search-result-file-matched-text {
+[data-type="backlink"] .search-result-file-matches .search-result-file-match .search-result-file-matched-text {
         background: rgba(229, 230, 71, 0.4);
       }
 
-[data-type='backlink'] .side-dock-collapsible-section-header {
+[data-type="backlink"] .side-dock-collapsible-section-header {
     padding: 0;
     padding-bottom: 2px;
     border-bottom: 2px solid transparent;
@@ -667,19 +674,35 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
     color: var(--clr-white);
   }
 
-[data-type='backlink'] .side-dock-collapsible-section-header:hover {
+[data-type="backlink"] .side-dock-collapsible-section-header:hover {
       padding-bottom: 2px;
       border-bottom: 2px solid var(--clr-white);
     }
 
-[data-type='backlink'] .side-dock-collapsible-section-header .side-dock-collapsible-section-header-indicator {
+[data-type="backlink"] .side-dock-collapsible-section-header .side-dock-collapsible-section-header-indicator {
       display: none;
     }
 
-[data-type='backlink'] .side-dock-collapsible-section-header:not(.is-collapsed) {
+[data-type="backlink"] .side-dock-collapsible-section-header:not(.is-collapsed) {
       padding-bottom: 2px;
       border-bottom: 2px solid var(--clr-white);
     }
+
+.tree-item-self {
+  color: var(--clr-white);
+}
+
+.search-result-file-matches {
+  border-bottom: 1px solid var(--clr-separator);
+}
+
+.search-result:not(:last-child) .search-result-file-matches {
+  box-shadow: 0px 1px black;
+}
+
+.nav-action-button.is-active {
+  background: none;
+}
 
 /* ===============SO3================ */
 
@@ -701,7 +724,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 /* Book icon like in the game menus */
 
 .nav-folder-title-content::before {
-  content: '📙';
+  content: "📙";
 }
 
 /* Opens the "book" above when opening the folder */
@@ -709,7 +732,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 .nav-folder.mod-root
   .nav-folder:not(.is-collapsed)
   .nav-folder-title-content::before {
-  content: '📖';
+  content: "📖";
 }
 
 .nav-files-container {
@@ -721,8 +744,12 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
   padding-bottom: 0;
 }
 
-.mod-starred .nav-header .nav-buttons-container .nav-action-button:nth-child(1)::after {
-    content: 'Star current entry';
+[data-type="starred"] .nav-header .nav-buttons-container .nav-action-button:nth-child(1)::after {
+    content: "Star current entry";
+  }
+
+[data-type="starred"] .nav-header .nav-buttons-container .nav-action-button:nth-child(2)::after {
+    content: "Star current search";
   }
 
 /* ==ACTIONS== */
@@ -745,15 +772,25 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 /* ============== */
 
-.nav-folder-title:hover::before, .nav-file-title:hover::before, .tag-pane-tag-text:hover::before, .search-result-file-title:hover::before, .search-result-file-match:hover::before, .side-dock-collapsible-section-header:hover::before {
-    content: '👍';
+.nav-folder-title:hover::before, .nav-file-title:hover::before, .tag-pane-tag:hover::before, .search-result-file-title:hover::before, .search-result-file-match:hover::before, .side-dock-collapsible-section-header:hover::before {
+    content: "👍";
     position: absolute;
-    left: -18px;
+    left: -9px;
     top: 15px;
     transform: scale(-1.75, 1.75) rotate(-45deg);
     filter: grayscale() contrast(150%);
     text-shadow: -2px 0px 0px rgba(0, 0, 0, 0.25);
   }
+
+/* Localizes the hand on hover, to the titles */
+
+.search-result-file-title,
+.search-result-file-match,
+.nav-file-title,
+.nav-folder-title,
+.tag-pane-tag {
+  position: relative;
+}
 
 .search-result-file-title,
 .search-result-file-match {
@@ -769,19 +806,36 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
     left: -34px;
   }
 
-/* Localizes the hand on hover, to the titles */
-
-.search-result-file-title {
-  position: relative;
-}
-
 .nav-files-container,
 .item-list,
-[data-type='backlink'] .view-content,
-[data-type='search'] .search-result-container,
+[data-type="backlink"] .view-content,
+[data-type="search"] .search-result-container,
 .tag-pane-tags {
   padding: 27px;
 }
+
+[data-type="search"] .nav-header .nav-buttons-container,
+[data-type="tag"] .nav-header .nav-buttons-container {
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+[data-type="search"] .nav-header .nav-buttons-container .nav-action-button::after, [data-type="tag"] .nav-header .nav-buttons-container .nav-action-button::after {
+      display: none;
+    }
+
+[data-type="search"] .nav-header .nav-buttons-container .nav-action-button:last-child, [data-type="tag"] .nav-header .nav-buttons-container .nav-action-button:last-child {
+      border: none;
+      box-shadow: none;
+    }
+
+[data-type="tag"] .nav-header .nav-buttons-container {
+  justify-content: flex-start;
+}
+
+[data-type="tag"] .nav-header .nav-buttons-container .nav-action-button {
+    margin-right: 10px;
+  }
 
 .nav-header .nav-buttons-container {
   padding: 42px;
@@ -793,13 +847,13 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
   }
 
 .nav-header .nav-buttons-container .nav-action-button:nth-child(1)::after {
-      content: 'New entry';
+      content: "New entry";
       top: 40px;
       left: var(--left-pad);
     }
 
 .nav-header .nav-buttons-container .nav-action-button:nth-child(2)::after {
-      content: 'New category';
+      content: "New category";
       top: 76px;
       left: var(--left-pad);
     }
@@ -808,6 +862,10 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
       top: 112px;
       left: var(--left-pad);
     }
+
+.tag-container {
+  padding-left: 27px;
+}
 
 /* Moves the actions bar to somewhere still accessible */
 
@@ -849,11 +907,11 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
   }
 
 .markdown-preview-view > .markdown-preview-section:last-child p > .tag::before {
-      content: '(';
+      content: "(";
     }
 
 .markdown-preview-view > .markdown-preview-section:last-child p > .tag::after {
-      content: ')';
+      content: ")";
     }
 
 /* Spaces out list items a bit */
@@ -881,3 +939,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 .races .internal-link {
   color: var(--clr-races);
 }
+
+.tree-item-self .collapse-icon {
+    display: none;
+  }
