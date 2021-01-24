@@ -8,7 +8,7 @@ In this repo you'll find:
 - The JS I wrote for all the text manipulation up until I thought "That's enough hand-rolled text manipulation coding in JS for one lifetime, thanks" (in `js-scripts`)
 - _**MAJOR SPOILERS FOR THE GAME.**_ Yeah, it's almost 16 years old at this point, but this is just a fair warning!
 
-Currently the CSS theme powering the appearance is stable (-ish) in Obsidian version `0.7.3`. Updates will occur to restabilize as Obsidian rapidly develops!
+Currently the CSS theme powering the appearance is stable (-ish) in Obsidian version `0.10.8`. Updates will occur to restabilize as Obsidian rapidly develops!
 
 # Table of contents
 
@@ -45,7 +45,7 @@ Currently the CSS theme powering the appearance is stable (-ish) in Obsidian ver
 
 ## Differences in functionality from a typical Obsidian CSS theme
 
-All of these can be turned off by going into `obsidian.css` and commenting out/deleting code in the "SO3-Specific Presentational Styles" section. Use `Ctrl/Cmd+F` in your text editor and search for "SO3" to get there fast.
+All of these can be turned off by going into `.obsidian/theme/so3-dict.css` and commenting out/deleting code in the "SO3-Specific Presentational Styles" section. Use `Ctrl/Cmd+F` in your text editor and search for "SO3" to get there fast.
 
 - Your actions bar is now in the bottom right of your note's pane. The entry type now covers the top right of the header so it had to go somewhere!
 - The "drag this note" icon has been moved into the square in the top-left of the note.
