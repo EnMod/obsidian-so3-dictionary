@@ -64,9 +64,9 @@ All of these can be turned off by going into `.obsidian/theme/so3-dict.css` and 
 
 ## Disclaimer
 
-I DO NOT OWN STAR OCEAN: TILL THE END OF TIME OR RELATED INTELLECTUAL PROPERTY/TRADEMARKS. Any applicable ownership rights/copyrights belong to the game's publisher Square Enix and/or its developer triAce, or any other unmentioned owners.
+I DO NOT OWN STAR OCEAN: TILL THE END OF TIME OR RELATED INTELLECTUAL PROPERTY/TRADEMARKS. Any applicable ownership rights/copyrights belong to the game's publisher Square Enix and/or its developer triAce, or any other unmentioned copyright/trademark owners.
 
-This project is purely a labor of passion for the game, is NOT FOR PROFIT, and is intended for NON-COMMERCIAL USE.
+This project is purely a labor of passion for the game, is NOT FOR PROFIT, and is intended for NON-COMMERCIAL, PERSONAL, PRIVATE USE.
 
 ## Credits
 
