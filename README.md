@@ -6,7 +6,7 @@ In this repo you'll find:
 
 - The Obsidian vault proper (in `so3-dictionary`)
 - The JS I wrote for all the text manipulation up until I thought "That's enough hand-rolled text manipulation coding in JS for one lifetime, thanks" (in `js-scripts`)
-- _**MAJOR SPOILERS FOR THE GAME.**_ Yeah, it's almost 16 years old at this point, but this is just a fair warning!
+- _**MAJOR SPOILERS FOR THE GAME.**_ Yeah, it's almost 17 years old at this point, but this is just a fair warning!
 
 Currently the CSS theme powering the appearance is stable (-ish) in Obsidian version `0.10.8`. Updates will occur to restabilize as Obsidian rapidly develops!
 
